@@ -13,77 +13,77 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define VREXPANSIONPLUGIN_VRBPDatatypes_generated_h
 
-#define VRBlockOut_Plugins_VRExpansionPlugin_VRExpansionPlugin_Source_VRExpansionPlugin_Public_VRBPDatatypes_h_1824_GENERATED_BODY \
+#define summer_2022_vr_project_Plugins_VRExpansionPlugin_VRExpansionPlugin_Source_VRExpansionPlugin_Public_VRBPDatatypes_h_1824_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FBPAdvancedPhysicsHandleSettings_Statics; \
 	static class UScriptStruct* StaticStruct();
 
 
 template<> VREXPANSIONPLUGIN_API UScriptStruct* StaticStruct<struct FBPAdvancedPhysicsHandleSettings>();
 
-#define VRBlockOut_Plugins_VRExpansionPlugin_VRExpansionPlugin_Source_VRExpansionPlugin_Public_VRBPDatatypes_h_1768_GENERATED_BODY \
+#define summer_2022_vr_project_Plugins_VRExpansionPlugin_VRExpansionPlugin_Source_VRExpansionPlugin_Public_VRBPDatatypes_h_1768_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FBPAdvancedPhysicsHandleAxisSettings_Statics; \
 	static class UScriptStruct* StaticStruct();
 
 
 template<> VREXPANSIONPLUGIN_API UScriptStruct* StaticStruct<struct FBPAdvancedPhysicsHandleAxisSettings>();
 
-#define VRBlockOut_Plugins_VRExpansionPlugin_VRExpansionPlugin_Source_VRExpansionPlugin_Public_VRBPDatatypes_h_1717_GENERATED_BODY \
+#define summer_2022_vr_project_Plugins_VRExpansionPlugin_VRExpansionPlugin_Source_VRExpansionPlugin_Public_VRBPDatatypes_h_1717_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FBPActorPhysicsHandleInformation_Statics; \
 	static class UScriptStruct* StaticStruct();
 
 
 template<> VREXPANSIONPLUGIN_API UScriptStruct* StaticStruct<struct FBPActorPhysicsHandleInformation>();
 
-#define VRBlockOut_Plugins_VRExpansionPlugin_VRExpansionPlugin_Source_VRExpansionPlugin_Public_VRBPDatatypes_h_1635_GENERATED_BODY \
+#define summer_2022_vr_project_Plugins_VRExpansionPlugin_VRExpansionPlugin_Source_VRExpansionPlugin_Public_VRBPDatatypes_h_1635_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FBPInterfaceProperties_Statics; \
 	static class UScriptStruct* StaticStruct();
 
 
 template<> VREXPANSIONPLUGIN_API UScriptStruct* StaticStruct<struct FBPInterfaceProperties>();
 
-#define VRBlockOut_Plugins_VRExpansionPlugin_VRExpansionPlugin_Source_VRExpansionPlugin_Public_VRBPDatatypes_h_1585_GENERATED_BODY \
+#define summer_2022_vr_project_Plugins_VRExpansionPlugin_VRExpansionPlugin_Source_VRExpansionPlugin_Public_VRBPDatatypes_h_1585_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FBPGripPair_Statics; \
 	static class UScriptStruct* StaticStruct();
 
 
 template<> VREXPANSIONPLUGIN_API UScriptStruct* StaticStruct<struct FBPGripPair>();
 
-#define VRBlockOut_Plugins_VRExpansionPlugin_VRExpansionPlugin_Source_VRExpansionPlugin_Public_VRBPDatatypes_h_1345_GENERATED_BODY \
+#define summer_2022_vr_project_Plugins_VRExpansionPlugin_VRExpansionPlugin_Source_VRExpansionPlugin_Public_VRBPDatatypes_h_1345_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FBPActorGripInformation_Statics; \
 	static class UScriptStruct* StaticStruct();
 
 
 template<> VREXPANSIONPLUGIN_API UScriptStruct* StaticStruct<struct FBPActorGripInformation>();
 
-#define VRBlockOut_Plugins_VRExpansionPlugin_VRExpansionPlugin_Source_VRExpansionPlugin_Public_VRBPDatatypes_h_1227_GENERATED_BODY \
+#define summer_2022_vr_project_Plugins_VRExpansionPlugin_VRExpansionPlugin_Source_VRExpansionPlugin_Public_VRBPDatatypes_h_1227_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FBPSecondaryGripInfo_Statics; \
 	static class UScriptStruct* StaticStruct();
 
 
 template<> VREXPANSIONPLUGIN_API UScriptStruct* StaticStruct<struct FBPSecondaryGripInfo>();
 
-#define VRBlockOut_Plugins_VRExpansionPlugin_VRExpansionPlugin_Source_VRExpansionPlugin_Public_VRBPDatatypes_h_1197_GENERATED_BODY \
+#define summer_2022_vr_project_Plugins_VRExpansionPlugin_VRExpansionPlugin_Source_VRExpansionPlugin_Public_VRBPDatatypes_h_1197_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FBPAdvGripSettings_Statics; \
 	static class UScriptStruct* StaticStruct();
 
 
 template<> VREXPANSIONPLUGIN_API UScriptStruct* StaticStruct<struct FBPAdvGripSettings>();
 
-#define VRBlockOut_Plugins_VRExpansionPlugin_VRExpansionPlugin_Source_VRExpansionPlugin_Public_VRBPDatatypes_h_1045_GENERATED_BODY \
+#define summer_2022_vr_project_Plugins_VRExpansionPlugin_VRExpansionPlugin_Source_VRExpansionPlugin_Public_VRBPDatatypes_h_1045_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FBPAdvGripPhysicsSettings_Statics; \
 	static class UScriptStruct* StaticStruct();
 
 
 template<> VREXPANSIONPLUGIN_API UScriptStruct* StaticStruct<struct FBPAdvGripPhysicsSettings>();
 
-#define VRBlockOut_Plugins_VRExpansionPlugin_VRExpansionPlugin_Source_VRExpansionPlugin_Public_VRBPDatatypes_h_723_GENERATED_BODY \
+#define summer_2022_vr_project_Plugins_VRExpansionPlugin_VRExpansionPlugin_Source_VRExpansionPlugin_Public_VRBPDatatypes_h_723_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FBPVRComponentPosRep_Statics; \
 	static class UScriptStruct* StaticStruct();
 
 
 template<> VREXPANSIONPLUGIN_API UScriptStruct* StaticStruct<struct FBPVRComponentPosRep>();
 
-#define VRBlockOut_Plugins_VRExpansionPlugin_VRExpansionPlugin_Source_VRExpansionPlugin_Public_VRBPDatatypes_h_462_GENERATED_BODY \
+#define summer_2022_vr_project_Plugins_VRExpansionPlugin_VRExpansionPlugin_Source_VRExpansionPlugin_Public_VRBPDatatypes_h_462_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FTransform_NetQuantize_Statics; \
 	VREXPANSIONPLUGIN_API static class UScriptStruct* StaticStruct(); \
 	typedef FTransform Super;
@@ -91,35 +91,35 @@ template<> VREXPANSIONPLUGIN_API UScriptStruct* StaticStruct<struct FBPVRCompone
 
 template<> VREXPANSIONPLUGIN_API UScriptStruct* StaticStruct<struct FTransform_NetQuantize>();
 
-#define VRBlockOut_Plugins_VRExpansionPlugin_VRExpansionPlugin_Source_VRExpansionPlugin_Public_VRBPDatatypes_h_389_GENERATED_BODY \
+#define summer_2022_vr_project_Plugins_VRExpansionPlugin_VRExpansionPlugin_Source_VRExpansionPlugin_Public_VRBPDatatypes_h_389_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FBPLowPassPeakFilter_Statics; \
 	static class UScriptStruct* StaticStruct();
 
 
 template<> VREXPANSIONPLUGIN_API UScriptStruct* StaticStruct<struct FBPLowPassPeakFilter>();
 
-#define VRBlockOut_Plugins_VRExpansionPlugin_VRExpansionPlugin_Source_VRExpansionPlugin_Public_VRBPDatatypes_h_327_GENERATED_BODY \
+#define summer_2022_vr_project_Plugins_VRExpansionPlugin_VRExpansionPlugin_Source_VRExpansionPlugin_Public_VRBPDatatypes_h_327_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FBPEuroLowPassFilterTrans_Statics; \
 	static class UScriptStruct* StaticStruct();
 
 
 template<> VREXPANSIONPLUGIN_API UScriptStruct* StaticStruct<struct FBPEuroLowPassFilterTrans>();
 
-#define VRBlockOut_Plugins_VRExpansionPlugin_VRExpansionPlugin_Source_VRExpansionPlugin_Public_VRBPDatatypes_h_274_GENERATED_BODY \
+#define summer_2022_vr_project_Plugins_VRExpansionPlugin_VRExpansionPlugin_Source_VRExpansionPlugin_Public_VRBPDatatypes_h_274_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FBPEuroLowPassFilterQuat_Statics; \
 	static class UScriptStruct* StaticStruct();
 
 
 template<> VREXPANSIONPLUGIN_API UScriptStruct* StaticStruct<struct FBPEuroLowPassFilterQuat>();
 
-#define VRBlockOut_Plugins_VRExpansionPlugin_VRExpansionPlugin_Source_VRExpansionPlugin_Public_VRBPDatatypes_h_220_GENERATED_BODY \
+#define summer_2022_vr_project_Plugins_VRExpansionPlugin_VRExpansionPlugin_Source_VRExpansionPlugin_Public_VRBPDatatypes_h_220_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FBPEuroLowPassFilter_Statics; \
 	static class UScriptStruct* StaticStruct();
 
 
 template<> VREXPANSIONPLUGIN_API UScriptStruct* StaticStruct<struct FBPEuroLowPassFilter>();
 
-#define VRBlockOut_Plugins_VRExpansionPlugin_VRExpansionPlugin_Source_VRExpansionPlugin_Public_VRBPDatatypes_h_82_GENERATED_BODY \
+#define summer_2022_vr_project_Plugins_VRExpansionPlugin_VRExpansionPlugin_Source_VRExpansionPlugin_Public_VRBPDatatypes_h_82_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FBPVRWaistTracking_Info_Statics; \
 	static class UScriptStruct* StaticStruct();
 
@@ -127,7 +127,7 @@ template<> VREXPANSIONPLUGIN_API UScriptStruct* StaticStruct<struct FBPEuroLowPa
 template<> VREXPANSIONPLUGIN_API UScriptStruct* StaticStruct<struct FBPVRWaistTracking_Info>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID VRBlockOut_Plugins_VRExpansionPlugin_VRExpansionPlugin_Source_VRExpansionPlugin_Public_VRBPDatatypes_h
+#define CURRENT_FILE_ID summer_2022_vr_project_Plugins_VRExpansionPlugin_VRExpansionPlugin_Source_VRExpansionPlugin_Public_VRBPDatatypes_h
 
 
 #define FOREACH_ENUM_EPHYSICSGRIPCOMTYPE(op) \

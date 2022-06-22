@@ -5,7 +5,7 @@
 	"Description": "",
 	"Modules": [
 		{
-			"Name": "VRBlockOut",
+			"Name": "ZirousSummer2022",
 			"Type": "Runtime",
 			"LoadingPhase": "Default"
 		}
