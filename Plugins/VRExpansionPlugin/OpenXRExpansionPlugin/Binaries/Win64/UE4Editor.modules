@@ -1,0 +1,8 @@
+{
+	"BuildId": "17155196",
+	"Modules": 
+	{
+		"OpenXRExpansionEditor": "UE4Editor-OpenXRExpansionEditor.dll",
+		"OpenXRExpansionPlugin": "UE4Editor-OpenXRExpansionPlugin.dll"
+	}
+}

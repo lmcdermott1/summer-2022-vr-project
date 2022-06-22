@@ -1,0 +1,140 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.VRExpansionPlugin.1_of_4.cpp.obj": [
+			"CharacterMovementCompTypes.cpp.obj",
+			"GripMotionControllerComponent.cpp.obj",
+			"GrippableActor.cpp.obj",
+			"GrippableBoxComponent.cpp.obj",
+			"GrippableCapsuleComponent.cpp.obj",
+			"GrippableCharacter.cpp.obj",
+			"GrippablePhysicsReplication.cpp.obj",
+			"GrippableSkeletalMeshActor.cpp.obj",
+			"GrippableSkeletalMeshComponent.cpp.obj"
+		],
+		"Module.VRExpansionPlugin.2_of_4.cpp.obj": [
+			"GrippableSphereComponent.cpp.obj",
+			"GrippableStaticMeshActor.cpp.obj",
+			"GrippableStaticMeshComponent.cpp.obj",
+			"HandSocketComponent.cpp.obj",
+			"GS_Default.cpp.obj",
+			"GS_GunTools.cpp.obj",
+			"GS_InteractibleSettings.cpp.obj",
+			"GS_LerpToHand.cpp.obj",
+			"GS_Melee.cpp.obj",
+			"GS_Physics.cpp.obj",
+			"VRGripScriptBase.cpp.obj",
+			"VRButtonComponent.cpp.obj",
+			"VRDialComponent.cpp.obj",
+			"VRInteractibleFunctionLibrary.cpp.obj",
+			"VRLeverComponent.cpp.obj",
+			"VRMountComponent.cpp.obj",
+			"VRSliderComponent.cpp.obj",
+			"BucketUpdateSubsystem.cpp.obj",
+			"OptionalRepSkeletalMeshActor.cpp.obj",
+			"VRAIPerceptionOverrides.cpp.obj",
+			"VREPhysicalAnimationComponent.cpp.obj",
+			"VRLogComponent.cpp.obj",
+			"VRPlayerStart.cpp.obj",
+			"VRRenderTargetManager.cpp.obj"
+		],
+		"Module.VRExpansionPlugin.3_of_4.cpp.obj": [
+			"ParentRelativeAttachmentComponent.cpp.obj",
+			"ReplicatedVRCameraComponent.cpp.obj",
+			"VRSimpleCharacter.cpp.obj",
+			"VRSimpleCharacterMovementComponent.cpp.obj",
+			"VRAIController.cpp.obj",
+			"VRBaseCharacter.cpp.obj",
+			"VRBaseCharacterMovementComponent.cpp.obj",
+			"VRBPDatatypes.cpp.obj",
+			"VRCharacter.cpp.obj",
+			"VRCharacterMovementComponent.cpp.obj",
+			"VRExpansionFunctionLibrary.cpp.obj"
+		],
+		"Module.VRExpansionPlugin.4_of_4.cpp.obj": [
+			"VRExpansionPlugin.cpp.obj",
+			"VRGestureComponent.cpp.obj",
+			"VRGlobalSettings.cpp.obj",
+			"VRGripInterface.cpp.obj",
+			"VRPathFollowingComponent.cpp.obj",
+			"VRPlayerController.cpp.obj",
+			"VRRootComponent.cpp.obj",
+			"VRStereoWidgetComponent.cpp.obj",
+			"VRTrackedParentInterface.cpp.obj"
+		],
+		"Module.VRExpansionPlugin.gen.1_of_8.cpp.obj": [
+			"BucketUpdateSubsystem.gen.cpp.obj",
+			"CharacterMovementCompTypes.gen.cpp.obj",
+			"GripMotionControllerComponent.gen.cpp.obj"
+		],
+		"Module.VRExpansionPlugin.gen.2_of_8.cpp.obj": [
+			"GrippableActor.gen.cpp.obj",
+			"GrippableBoxComponent.gen.cpp.obj",
+			"GrippableCapsuleComponent.gen.cpp.obj",
+			"GrippableCharacter.gen.cpp.obj",
+			"GrippableDataTypes.gen.cpp.obj",
+			"GrippablePhysicsReplication.gen.cpp.obj",
+			"GrippableSkeletalMeshActor.gen.cpp.obj",
+			"GrippableSkeletalMeshComponent.gen.cpp.obj",
+			"GrippableSphereComponent.gen.cpp.obj",
+			"GrippableStaticMeshActor.gen.cpp.obj",
+			"GrippableStaticMeshComponent.gen.cpp.obj",
+			"GS_Default.gen.cpp.obj",
+			"GS_GunTools.gen.cpp.obj"
+		],
+		"Module.VRExpansionPlugin.gen.3_of_8.cpp.obj": [
+			"GS_InteractibleSettings.gen.cpp.obj",
+			"GS_LerpToHand.gen.cpp.obj",
+			"GS_Melee.gen.cpp.obj",
+			"GS_Physics.gen.cpp.obj",
+			"HandSocketComponent.gen.cpp.obj",
+			"OptionalRepSkeletalMeshActor.gen.cpp.obj",
+			"ParentRelativeAttachmentComponent.gen.cpp.obj",
+			"ReplicatedVRCameraComponent.gen.cpp.obj",
+			"VRAIController.gen.cpp.obj",
+			"VRAIPerceptionOverrides.gen.cpp.obj",
+			"VRBaseCharacter.gen.cpp.obj"
+		],
+		"Module.VRExpansionPlugin.gen.4_of_8.cpp.obj": [
+			"VRBaseCharacterMovementComponent.gen.cpp.obj",
+			"VRBPDatatypes.gen.cpp.obj",
+			"VRButtonComponent.gen.cpp.obj"
+		],
+		"Module.VRExpansionPlugin.gen.5_of_8.cpp.obj": [
+			"VRCharacter.gen.cpp.obj",
+			"VRCharacterMovementComponent.gen.cpp.obj",
+			"VRDialComponent.gen.cpp.obj",
+			"VREPhysicalAnimationComponent.gen.cpp.obj",
+			"VREPhysicsConstraintComponent.gen.cpp.obj",
+			"VRExpansionFunctionLibrary.gen.cpp.obj",
+			"VRExpansionPlugin.init.gen.cpp.obj"
+		],
+		"Module.VRExpansionPlugin.gen.6_of_8.cpp.obj": [
+			"VRGameViewportClient.gen.cpp.obj",
+			"VRGestureComponent.gen.cpp.obj",
+			"VRGlobalSettings.gen.cpp.obj",
+			"VRGripInterface.gen.cpp.obj"
+		],
+		"Module.VRExpansionPlugin.gen.7_of_8.cpp.obj": [
+			"VRGripScriptBase.gen.cpp.obj",
+			"VRInteractibleFunctionLibrary.gen.cpp.obj",
+			"VRLeverComponent.gen.cpp.obj",
+			"VRLogComponent.gen.cpp.obj",
+			"VRMountComponent.gen.cpp.obj",
+			"VRPathFollowingComponent.gen.cpp.obj",
+			"VRPlayerController.gen.cpp.obj",
+			"VRPlayerStart.gen.cpp.obj",
+			"VRRenderTargetManager.gen.cpp.obj"
+		],
+		"Module.VRExpansionPlugin.gen.8_of_8.cpp.obj": [
+			"VRRootComponent.gen.cpp.obj",
+			"VRSimpleCharacter.gen.cpp.obj",
+			"VRSimpleCharacterMovementComponent.gen.cpp.obj",
+			"VRSliderComponent.gen.cpp.obj",
+			"VRStereoWidgetComponent.gen.cpp.obj",
+			"VRTrackedParentInterface.gen.cpp.obj",
+			"VRVehiclePawn.gen.cpp.obj",
+			"VRWheeledVehicle.gen.cpp.obj"
+		]
+	}
+}

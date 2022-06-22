@@ -1,0 +1,57 @@
+C:\Users\ybasha\Documents\Unreal Projects\VRBlockOut\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\OpenVRExpansionPlugin\Definitions.OpenVRExpansionPlugin.h
+C:/Users/ybasha/Documents/Unreal Projects/VRBlockOut/Plugins/VRExpansionPlugin/OpenVRExpansionPlugin/Source/OpenVRExpansionPlugin/Private/OpenVRExpansionFunctionLibrary.cpp
+C:\Users\ybasha\Documents\Unreal Projects\VRBlockOut\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Source\OpenVRExpansionPlugin\Public\OpenVRExpansionFunctionLibrary.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\HeadMountedDisplay\Public\IMotionController.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\OpenVR\OpenVRv1_5_17\headers\openvr.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\string
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xstring
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\iosfwd
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cstdio
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cwchar
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xmemory
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\limits
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cfloat
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\isa_availability.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cctype
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Runtime\ProceduralMeshComponent\Source\ProceduralMeshComponent\Public\ProceduralMeshComponent.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Runtime\ProceduralMeshComponent\Intermediate\Build\Win64\UE4Editor\Inc\ProceduralMeshComponent\ProceduralMeshComponent.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Runtime\ProceduralMeshComponent\Source\ProceduralMeshComponent\Public\KismetProceduralMeshLibrary.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Runtime\ProceduralMeshComponent\Intermediate\Build\Win64\UE4Editor\Inc\ProceduralMeshComponent\KismetProceduralMeshLibrary.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\HeadMountedDisplay\Public\HeadMountedDisplayFunctionLibrary.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\HeadMountedDisplay\Public\HeadMountedDisplayTypes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\HeadMountedDisplay\HeadMountedDisplayTypes.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\HeadMountedDisplay\Public\IIdentifiableXRDevice.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\HeadMountedDisplay\IIdentifiableXRDevice.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\HeadMountedDisplay\Public\XRGestureConfig.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\HeadMountedDisplay\XRGestureConfig.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\HeadMountedDisplay\HeadMountedDisplayFunctionLibrary.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\HeadMountedDisplay\Public\IHeadMountedDisplay.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\HeadMountedDisplay\Public\LateUpdateManager.h
+C:\Users\ybasha\Documents\Unreal Projects\VRBlockOut\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Inc\OpenVRExpansionPlugin\OpenVRExpansionFunctionLibrary.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\Rendering/Texture2DResource.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\Rendering/StreamableTextureResource.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\HeadMountedDisplay\Public\IXRTrackingSystem.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\HeadMountedDisplay\Public\IXRInput.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor/UnrealEd/Classes/Editor/EditorEngine.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\UnrealEd\Classes\Editor/Transactor.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Serialization/ArchiveSerializedPropertyChain.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\Transactor.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\UnrealEd\Classes\Settings/LevelEditorViewportSettings.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\UnrealEd\Public\Viewports.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\UnrealEd\Classes\Editor/UnrealEdTypes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\UnrealEdTypes.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\LevelEditorViewportSettings.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Developer\TargetPlatform\Public\Interfaces/ITargetPlatform.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Developer\TargetPlatform\Public\Interfaces/ITargetDevice.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Developer\TargetPlatform\Public\Interfaces/TargetDeviceId.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Developer\TargetPlatform\Public\Interfaces/ITargetPlatformManagerModule.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\UnrealEd\Public\PlayInEditorDataTypes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\PlayInEditorDataTypes.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\EditorSubsystem\Public\EditorSubsystem.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\EditorSubsystem\EditorSubsystem.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\EditorEngine.generated.h
+C:/Users/ybasha/Documents/Unreal Projects/VRBlockOut/Plugins/VRExpansionPlugin/OpenVRExpansionPlugin/Source/OpenVRExpansionPlugin/Private/OpenVRExpansionPlugin.cpp
+C:\Users\ybasha\Documents\Unreal Projects\VRBlockOut\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Source\OpenVRExpansionPlugin\Public\OpenVRExpansionPlugin.h
+C:/Users/ybasha/Documents/Unreal Projects/VRBlockOut/Plugins/VRExpansionPlugin/OpenVRExpansionPlugin/Source/OpenVRExpansionPlugin/Private/SteamVRKeyboardComponent.cpp
+C:\Users\ybasha\Documents\Unreal Projects\VRBlockOut\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Source\OpenVRExpansionPlugin\Public\SteamVRKeyboardComponent.h
+C:\Users\ybasha\Documents\Unreal Projects\VRBlockOut\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Inc\OpenVRExpansionPlugin\SteamVRKeyboardComponent.generated.h

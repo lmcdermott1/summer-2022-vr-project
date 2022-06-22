@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-OpenXRExpansionEditor.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\ybasha\Documents\Unreal Projects\VRBlockOut\Intermediate\Build\Win64\VRBlockOutEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.obj"
+"C:\Users\ybasha\Documents\Unreal Projects\VRBlockOut\Plugins\VRExpansionPlugin\OpenXRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\OpenXRExpansionEditor\Module.OpenXRExpansionEditor.cpp.obj"
+"C:\Users\ybasha\Documents\Unreal Projects\VRBlockOut\Plugins\VRExpansionPlugin\OpenXRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\OpenXRExpansionEditor\Module.OpenXRExpansionEditor.gen.cpp.obj"
+"C:\Users\ybasha\Documents\Unreal Projects\VRBlockOut\Plugins\VRExpansionPlugin\OpenXRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\OpenXRExpansionEditor\Default.rc2.res"
+/OUT:"C:\Users\ybasha\Documents\Unreal Projects\VRBlockOut\Plugins\VRExpansionPlugin\OpenXRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\OpenXRExpansionEditor\UE4Editor-OpenXRExpansionEditor.lib"

@@ -1,0 +1,18 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.OpenXRExpansionPlugin.cpp.obj": [
+			"AnimNode_ApplyOpenXRHandPose.cpp.obj",
+			"OpenXRExpansionFunctionLibrary.cpp.obj",
+			"OpenXRExpansionPlugin.cpp.obj",
+			"OpenXRHandPoseComponent.cpp.obj"
+		],
+		"Module.OpenXRExpansionPlugin.gen.cpp.obj": [
+			"AnimNode_ApplyOpenXRHandPose.gen.cpp.obj",
+			"OpenXRExpansionFunctionLibrary.gen.cpp.obj",
+			"OpenXRExpansionPlugin.init.gen.cpp.obj",
+			"OpenXRExpansionTypes.gen.cpp.obj",
+			"OpenXRHandPoseComponent.gen.cpp.obj"
+		]
+	}
+}
