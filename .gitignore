@@ -1,6 +1,9 @@
 # Visual Studio 2015 user specific files
 .vs/
 
+# Added by Andrew
+*.generated.h
+
 # Compiled Object files
 *.slo
 *.lo
