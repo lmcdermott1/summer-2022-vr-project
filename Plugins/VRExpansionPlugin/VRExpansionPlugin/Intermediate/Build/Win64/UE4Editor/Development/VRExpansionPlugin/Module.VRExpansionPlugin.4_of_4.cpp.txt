@@ -1,8 +1,8 @@
-C:\Users\ybasha\Documents\Unreal Projects\VRBlockOut\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\VRExpansionPlugin\Definitions.VRExpansionPlugin.h
-C:/Users/ybasha/Documents/Unreal Projects/VRBlockOut/Plugins/VRExpansionPlugin/VRExpansionPlugin/Source/VRExpansionPlugin/Private/VRExpansionPlugin.cpp
-C:\Users\ybasha\Documents\Unreal Projects\VRBlockOut\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\VRExpansionPlugin.h
-C:\Users\ybasha\Documents\Unreal Projects\VRBlockOut\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\Grippables/GrippablePhysicsReplication.h
-C:\Users\ybasha\Documents\Unreal Projects\VRBlockOut\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\VRGlobalSettings.h
+C:\Users\adeick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\VRExpansionPlugin\Definitions.VRExpansionPlugin.h
+C:/Users/adeick/Documents/GitHub/summer-2022-vr-project/Plugins/VRExpansionPlugin/VRExpansionPlugin/Source/VRExpansionPlugin/Private/VRExpansionPlugin.cpp
+C:\Users\adeick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\VRExpansionPlugin.h
+C:\Users\adeick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\Grippables/GrippablePhysicsReplication.h
+C:\Users\adeick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\VRGlobalSettings.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/PlayerInput.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\GestureRecognizer.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\KeyState.h
@@ -11,12 +11,12 @@ C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFra
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/InputComponent.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\InputComponent.generated.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\InputSettings.generated.h
-C:\Users\ybasha\Documents\Unreal Projects\VRBlockOut\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\VRBPDatatypes.h
-C:\Users\ybasha\Documents\Unreal Projects\VRBlockOut\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Inc\VRExpansionPlugin\VRBPDatatypes.generated.h
-C:\Users\ybasha\Documents\Unreal Projects\VRBlockOut\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\GripScripts/GS_Melee.h
-C:\Users\ybasha\Documents\Unreal Projects\VRBlockOut\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\GripScripts\VRGripScriptBase.h
+C:\Users\adeick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\VRBPDatatypes.h
+C:\Users\adeick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Inc\VRExpansionPlugin\VRBPDatatypes.generated.h
+C:\Users\adeick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\GripScripts/GS_Melee.h
+C:\Users\adeick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\GripScripts\VRGripScriptBase.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\Net/UnrealNetwork.h
-C:\Users\ybasha\Documents\Unreal Projects\VRBlockOut\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Inc\VRExpansionPlugin\VRGripScriptBase.generated.h
+C:\Users\adeick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Inc\VRExpansionPlugin\VRGripScriptBase.generated.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/WorldSettings.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/DamageType.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DamageType.generated.h
@@ -30,17 +30,17 @@ C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\In
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AudioVolume.generated.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/ConstructorHelpers.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\WorldSettings.generated.h
-C:\Users\ybasha\Documents\Unreal Projects\VRBlockOut\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\GripScripts/GS_Default.h
-C:\Users\ybasha\Documents\Unreal Projects\VRBlockOut\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Inc\VRExpansionPlugin\GS_Default.generated.h
-C:\Users\ybasha\Documents\Unreal Projects\VRBlockOut\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Inc\VRExpansionPlugin\GS_Melee.generated.h
+C:\Users\adeick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\GripScripts/GS_Default.h
+C:\Users\adeick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Inc\VRExpansionPlugin\GS_Default.generated.h
+C:\Users\adeick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Inc\VRExpansionPlugin\GS_Melee.generated.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\PhysXPublic.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\PhysicsCore\Public\PhysXPublicCore.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\PhysicsCore\Public\PhysXIncludes.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation\Px.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation/PxSimpleTypes.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation/PxPreprocessor.h
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\ciso646
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\iso646.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\INCLUDE\ciso646
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\INCLUDE\iso646.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\PxPhysicsAPI.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation/PxAllocatorCallback.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation/PxAssert.h
@@ -310,9 +310,9 @@ C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\APEX_1.4\inc
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\legacy\ModuleLegacy.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\nvparameterized\NvParamUtils.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\nvparameterized\NvParamUtils.inl
-C:\Users\ybasha\Documents\Unreal Projects\VRBlockOut\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\GripScripts/GS_GunTools.h
-C:\Users\ybasha\Documents\Unreal Projects\VRBlockOut\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Inc\VRExpansionPlugin\GS_GunTools.generated.h
-C:\Users\ybasha\Documents\Unreal Projects\VRBlockOut\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Inc\VRExpansionPlugin\VRGlobalSettings.generated.h
+C:\Users\adeick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\GripScripts/GS_GunTools.h
+C:\Users\adeick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Inc\VRExpansionPlugin\GS_GunTools.generated.h
+C:\Users\adeick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Inc\VRExpansionPlugin\VRGlobalSettings.generated.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine/Classes/GameFramework/PlayerController.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/OnlineReplStructs.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/CoreOnline.h
@@ -345,39 +345,39 @@ C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Experimental\Chaos\Pub
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Experimental\ChaosCore\Public\Chaos/Core.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Experimental\ChaosCore\Public\Chaos/Vector.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Experimental\ChaosCore\Public\Chaos/Array.h
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\functional
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xmemory
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\limits
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cfloat
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cwchar
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cstdio
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\isa_availability.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\INCLUDE\functional
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\INCLUDE\xmemory
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\INCLUDE\limits
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\INCLUDE\cfloat
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\INCLUDE\cwchar
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\INCLUDE\cstdio
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\INCLUDE\isa_availability.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Experimental\ChaosCore\Public\Chaos/Pair.h
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\iostream
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\istream
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\ostream
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\ios
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xlocnum
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cmath
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\iterator
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\iosfwd
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\streambuf
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xiosbase
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\INCLUDE\iostream
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\INCLUDE\istream
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\INCLUDE\ostream
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\INCLUDE\ios
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\INCLUDE\xlocnum
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\INCLUDE\cmath
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\INCLUDE\iterator
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\INCLUDE\iosfwd
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\INCLUDE\streambuf
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\INCLUDE\xiosbase
 C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\share.h
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\system_error
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\__msvc_system_error_abi.hpp
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cerrno
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\stdexcept
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xstring
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xcall_once.h
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xerrc.h
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xlocale
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\memory
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xfacet
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xlocinfo
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xlocinfo.h
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cctype
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\clocale
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\INCLUDE\system_error
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\INCLUDE\__msvc_system_error_abi.hpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\INCLUDE\cerrno
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\INCLUDE\stdexcept
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\INCLUDE\xstring
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\INCLUDE\xcall_once.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\INCLUDE\xerrc.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\INCLUDE\xlocale
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\INCLUDE\memory
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\INCLUDE\xfacet
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\INCLUDE\xlocinfo
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\INCLUDE\__msvc_xlocinfo_types.hpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\INCLUDE\cctype
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\INCLUDE\clocale
 C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\locale.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Experimental\ChaosCore\Public\Chaos/Matrix.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Experimental\Chaos\Public\Chaos/Rotation.h
@@ -397,7 +397,7 @@ C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Experimental\Chaos\Pub
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Experimental\Chaos\Public\Chaos/PBDRigidClusteredParticles.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Experimental\ChaosCore\Public\Chaos/ArrayCollectionArray.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Experimental\ChaosCore\Public\Chaos/ArrayCollectionArrayBase.h
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\algorithm
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\INCLUDE\algorithm
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Experimental\Chaos\Public\Chaos/PBDRigidParticles.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Experimental\Chaos\Public\Chaos/RigidParticles.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Experimental\Chaos\Public\Chaos/Collision/CollisionConstraintFlags.h
@@ -465,21 +465,21 @@ C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Experimental\Chaos\Pub
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Experimental\Chaos\Public\Chaos/ConstraintHandle.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Experimental\Chaos\Public\Chaos/PBDConstraintContainer.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Experimental\Chaos\Public\Chaos\Framework/BufferedData.h
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\queue
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\deque
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\vector
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\sstream
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\string
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\INCLUDE\queue
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\INCLUDE\deque
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\INCLUDE\vector
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\INCLUDE\sstream
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\INCLUDE\string
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Experimental\Chaos\Public\Chaos\BoundingVolume.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Experimental\ChaosCore\Public\Chaos/ArrayND.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Experimental\Chaos\Public\Chaos/UniformGrid.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Experimental\Chaos\Public\Chaos/BoundingVolumeUtilities.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Experimental\Chaos\Public\Chaos/Sphere.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Experimental\Chaos\Public\Chaos/GJKShape.h
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\unordered_set
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xhash
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\list
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xbit_ops.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\INCLUDE\unordered_set
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\INCLUDE\xhash
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\INCLUDE\list
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\INCLUDE\xbit_ops.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Experimental\Chaos\Public\Chaos\AABBTree.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Experimental\Chaos\Public\Chaos/PBDRigidsSOAs.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Experimental\Chaos\Public\Chaos/Collision/SpatialAccelerationBroadPhase.h
@@ -552,17 +552,17 @@ C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\Physics/
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Containers/Union.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\PhysicsCore\Public\PhysicsInterfaceUtilsCore.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\PhysicsReplication.h
-C:\Users\ybasha\Documents\Unreal Projects\VRBlockOut\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Inc\VRExpansionPlugin\GrippablePhysicsReplication.generated.h
+C:\Users\adeick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Inc\VRExpansionPlugin\GrippablePhysicsReplication.generated.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Developer\Settings\Public\ISettingsContainer.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Developer\Settings\Public\ISettingsModule.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Developer\Settings\Public\ISettingsSection.h
-C:/Users/ybasha/Documents/Unreal Projects/VRBlockOut/Plugins/VRExpansionPlugin/VRExpansionPlugin/Source/VRExpansionPlugin/Private/VRGestureComponent.cpp
-C:\Users\ybasha\Documents\Unreal Projects\VRBlockOut\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\VRGestureComponent.h
+C:/Users/adeick/Documents/GitHub/summer-2022-vr-project/Plugins/VRExpansionPlugin/VRExpansionPlugin/Source/VRExpansionPlugin/Private/VRGestureComponent.cpp
+C:\Users\adeick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\VRGestureComponent.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/SplineMeshComponent.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SplineMeshComponent.generated.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/SplineComponent.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SplineComponent.generated.h
-C:\Users\ybasha\Documents\Unreal Projects\VRBlockOut\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\VRBaseCharacter.h
+C:\Users\adeick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\VRBaseCharacter.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\AIModule\Classes\Navigation/PathFollowingComponent.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\NavigationSystem\Public\NavigationData.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\NavigationSystem\Public\NavigationSystemTypes.h
@@ -583,7 +583,7 @@ C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFra
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MovementComponent.generated.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\NavMovementComponent.generated.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AIModule\PathFollowingComponent.generated.h
-C:\Users\ybasha\Documents\Unreal Projects\VRBlockOut\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\VRBaseCharacterMovementComponent.h
+C:\Users\adeick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\VRBaseCharacterMovementComponent.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/CharacterMovementReplication.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CharacterMovementReplication.generated.h
@@ -608,15 +608,15 @@ C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\In
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Interfaces/NetworkPredictionInterface.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\NetworkPredictionInterface.generated.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CharacterMovementComponent.generated.h
-C:\Users\ybasha\Documents\Unreal Projects\VRBlockOut\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\CharacterMovementCompTypes.h
-C:\Users\ybasha\Documents\Unreal Projects\VRBlockOut\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Inc\VRExpansionPlugin\CharacterMovementCompTypes.generated.h
-C:\Users\ybasha\Documents\Unreal Projects\VRBlockOut\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Inc\VRExpansionPlugin\VRBaseCharacterMovementComponent.generated.h
-C:\Users\ybasha\Documents\Unreal Projects\VRBlockOut\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\ReplicatedVRCameraComponent.h
+C:\Users\adeick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\CharacterMovementCompTypes.h
+C:\Users\adeick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Inc\VRExpansionPlugin\CharacterMovementCompTypes.generated.h
+C:\Users\adeick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Inc\VRExpansionPlugin\VRBaseCharacterMovementComponent.generated.h
+C:\Users\adeick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\ReplicatedVRCameraComponent.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Camera/CameraComponent.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CameraComponent.generated.h
-C:\Users\ybasha\Documents\Unreal Projects\VRBlockOut\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Inc\VRExpansionPlugin\ReplicatedVRCameraComponent.generated.h
-C:\Users\ybasha\Documents\Unreal Projects\VRBlockOut\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\ParentRelativeAttachmentComponent.h
-C:\Users\ybasha\Documents\Unreal Projects\VRBlockOut\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\VRExpansionFunctionLibrary.h
+C:\Users\adeick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Inc\VRExpansionPlugin\ReplicatedVRCameraComponent.generated.h
+C:\Users\adeick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\ParentRelativeAttachmentComponent.h
+C:\Users\adeick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\VRExpansionFunctionLibrary.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\HeadMountedDisplay\Public\IMotionController.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\HeadMountedDisplay\Public\HeadMountedDisplayFunctionLibrary.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\HeadMountedDisplay\Public\HeadMountedDisplayTypes.h
@@ -631,42 +631,42 @@ C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\HeadMountedDisplay\Pub
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\GameplayTags\Classes\GameplayTagContainer.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\GameplayTags\GameplayTagContainer.generated.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\HeadMountedDisplay\Public\XRMotionControllerBase.h
-C:\Users\ybasha\Documents\Unreal Projects\VRBlockOut\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Inc\VRExpansionPlugin\VRExpansionFunctionLibrary.generated.h
+C:\Users\adeick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Inc\VRExpansionPlugin\VRExpansionFunctionLibrary.generated.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\HeadMountedDisplay\Public\IXRTrackingSystem.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\HeadMountedDisplay\Public\IXRInput.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/ShapeComponent.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ShapeComponent.generated.h
-C:\Users\ybasha\Documents\Unreal Projects\VRBlockOut\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\VRTrackedParentInterface.h
-C:\Users\ybasha\Documents\Unreal Projects\VRBlockOut\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Inc\VRExpansionPlugin\VRTrackedParentInterface.generated.h
-C:\Users\ybasha\Documents\Unreal Projects\VRBlockOut\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Inc\VRExpansionPlugin\ParentRelativeAttachmentComponent.generated.h
-C:\Users\ybasha\Documents\Unreal Projects\VRBlockOut\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\GripMotionControllerComponent.h
+C:\Users\adeick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\VRTrackedParentInterface.h
+C:\Users\adeick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Inc\VRExpansionPlugin\VRTrackedParentInterface.generated.h
+C:\Users\adeick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Inc\VRExpansionPlugin\ParentRelativeAttachmentComponent.generated.h
+C:\Users\adeick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\GripMotionControllerComponent.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\SceneViewExtension.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\SceneViewExtensionContext.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SceneViewExtensionContext.generated.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\HeadMountedDisplay\Public\MotionControllerComponent.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\HeadMountedDisplay\MotionControllerComponent.generated.h
-C:\Users\ybasha\Documents\Unreal Projects\VRBlockOut\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\VRGripInterface.h
-C:\Users\ybasha\Documents\Unreal Projects\VRBlockOut\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Inc\VRExpansionPlugin\VRGripInterface.generated.h
+C:\Users\adeick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\VRGripInterface.h
+C:\Users\adeick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Inc\VRExpansionPlugin\VRGripInterface.generated.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Math/DualQuat.h
-C:\Users\ybasha\Documents\Unreal Projects\VRBlockOut\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Inc\VRExpansionPlugin\GripMotionControllerComponent.generated.h
+C:\Users\adeick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Inc\VRExpansionPlugin\GripMotionControllerComponent.generated.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/CapsuleComponent.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CapsuleComponent.generated.h
-C:\Users\ybasha\Documents\Unreal Projects\VRBlockOut\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Inc\VRExpansionPlugin\VRBaseCharacter.generated.h
+C:\Users\adeick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Inc\VRExpansionPlugin\VRBaseCharacter.generated.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\DrawDebugHelpers.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/LineBatchComponent.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\LineBatchComponent.generated.h
-C:\Users\ybasha\Documents\Unreal Projects\VRBlockOut\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Inc\VRExpansionPlugin\VRGestureComponent.generated.h
-C:/Users/ybasha/Documents/Unreal Projects/VRBlockOut/Plugins/VRExpansionPlugin/VRExpansionPlugin/Source/VRExpansionPlugin/Private/VRGlobalSettings.cpp
-C:/Users/ybasha/Documents/Unreal Projects/VRBlockOut/Plugins/VRExpansionPlugin/VRExpansionPlugin/Source/VRExpansionPlugin/Private/VRGripInterface.cpp
-C:/Users/ybasha/Documents/Unreal Projects/VRBlockOut/Plugins/VRExpansionPlugin/VRExpansionPlugin/Source/VRExpansionPlugin/Private/VRPathFollowingComponent.cpp
-C:\Users\ybasha\Documents\Unreal Projects\VRBlockOut\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\VRPathFollowingComponent.h
-C:\Users\ybasha\Documents\Unreal Projects\VRBlockOut\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\VRRootComponent.h
+C:\Users\adeick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Inc\VRExpansionPlugin\VRGestureComponent.generated.h
+C:/Users/adeick/Documents/GitHub/summer-2022-vr-project/Plugins/VRExpansionPlugin/VRExpansionPlugin/Source/VRExpansionPlugin/Private/VRGlobalSettings.cpp
+C:/Users/adeick/Documents/GitHub/summer-2022-vr-project/Plugins/VRExpansionPlugin/VRExpansionPlugin/Source/VRExpansionPlugin/Private/VRGripInterface.cpp
+C:/Users/adeick/Documents/GitHub/summer-2022-vr-project/Plugins/VRExpansionPlugin/VRExpansionPlugin/Source/VRExpansionPlugin/Private/VRPathFollowingComponent.cpp
+C:\Users\adeick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\VRPathFollowingComponent.h
+C:\Users\adeick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\VRRootComponent.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/PhysicsVolume.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PhysicsVolume.generated.h
-C:\Users\ybasha\Documents\Unreal Projects\VRBlockOut\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Inc\VRExpansionPlugin\VRRootComponent.generated.h
+C:\Users\adeick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Inc\VRExpansionPlugin\VRRootComponent.generated.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\NavigationSystem\Public\AbstractNavData.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\NavigationSystem\AbstractNavData.generated.h
-C:\Users\ybasha\Documents\Unreal Projects\VRBlockOut\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Inc\VRExpansionPlugin\VRPathFollowingComponent.generated.h
+C:\Users\adeick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Inc\VRExpansionPlugin\VRPathFollowingComponent.generated.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\AIModule\Classes\Navigation/MetaNavMeshPath.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\NavigationSystem\Public\NavMesh/RecastNavMesh.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\NavigationSystem\Public\NavMesh/NavMeshPath.h
@@ -675,18 +675,18 @@ C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\In
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\NavigationSystem\RecastNavMesh.generated.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\NavigationSystem\Public\NavLinkCustomInterface.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\NavigationSystem\NavLinkCustomInterface.generated.h
-C:/Users/ybasha/Documents/Unreal Projects/VRBlockOut/Plugins/VRExpansionPlugin/VRExpansionPlugin/Source/VRExpansionPlugin/Private/VRPlayerController.cpp
-C:\Users\ybasha\Documents\Unreal Projects\VRBlockOut\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\VRPlayerController.h
-C:\Users\ybasha\Documents\Unreal Projects\VRBlockOut\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Inc\VRExpansionPlugin\VRPlayerController.generated.h
-C:/Users/ybasha/Documents/Unreal Projects/VRBlockOut/Plugins/VRExpansionPlugin/VRExpansionPlugin/Source/VRExpansionPlugin/Private/VRRootComponent.cpp
-C:\Users\ybasha\Documents\Unreal Projects\VRBlockOut\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\VRCharacter.h
-C:\Users\ybasha\Documents\Unreal Projects\VRBlockOut\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\VRCharacterMovementComponent.h
-C:\Users\ybasha\Documents\Unreal Projects\VRBlockOut\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Inc\VRExpansionPlugin\VRCharacterMovementComponent.generated.h
-C:\Users\ybasha\Documents\Unreal Projects\VRBlockOut\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Inc\VRExpansionPlugin\VRCharacter.generated.h
+C:/Users/adeick/Documents/GitHub/summer-2022-vr-project/Plugins/VRExpansionPlugin/VRExpansionPlugin/Source/VRExpansionPlugin/Private/VRPlayerController.cpp
+C:\Users\adeick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\VRPlayerController.h
+C:\Users\adeick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Inc\VRExpansionPlugin\VRPlayerController.generated.h
+C:/Users/adeick/Documents/GitHub/summer-2022-vr-project/Plugins/VRExpansionPlugin/VRExpansionPlugin/Source/VRExpansionPlugin/Private/VRRootComponent.cpp
+C:\Users\adeick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\VRCharacter.h
+C:\Users\adeick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\VRCharacterMovementComponent.h
+C:\Users\adeick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Inc\VRExpansionPlugin\VRCharacterMovementComponent.generated.h
+C:\Users\adeick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Inc\VRExpansionPlugin\VRCharacter.generated.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Algo/Copy.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Algo/Common.h
-C:/Users/ybasha/Documents/Unreal Projects/VRBlockOut/Plugins/VRExpansionPlugin/VRExpansionPlugin/Source/VRExpansionPlugin/Private/VRStereoWidgetComponent.cpp
-C:\Users\ybasha\Documents\Unreal Projects\VRBlockOut\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\VRStereoWidgetComponent.h
+C:/Users/adeick/Documents/GitHub/summer-2022-vr-project/Plugins/VRExpansionPlugin/VRExpansionPlugin/Source/VRExpansionPlugin/Private/VRStereoWidgetComponent.cpp
+C:\Users\adeick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\VRStereoWidgetComponent.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\UMG\Public\Components/WidgetComponent.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\UMG\Public\Blueprint/UserWidget.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\UMG\Public\Components/SlateWrapperTypes.h
@@ -801,7 +801,7 @@ C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/TextureRenderTarget.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\TextureRenderTarget.generated.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\TextureRenderTarget2D.generated.h
-C:\Users\ybasha\Documents\Unreal Projects\VRBlockOut\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Inc\VRExpansionPlugin\VRStereoWidgetComponent.generated.h
+C:\Users\adeick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Inc\VRExpansionPlugin\VRStereoWidgetComponent.generated.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Materials/MaterialInstanceDynamic.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Materials/MaterialInstance.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Materials/MaterialInstanceBasePropertyOverrides.h
@@ -816,4 +816,4 @@ C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/S
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\UMG\Public\Slate/SWorldWidgetScreenLayer.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Layout/SConstraintCanvas.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/SViewport.h
-C:/Users/ybasha/Documents/Unreal Projects/VRBlockOut/Plugins/VRExpansionPlugin/VRExpansionPlugin/Source/VRExpansionPlugin/Private/VRTrackedParentInterface.cpp
+C:/Users/adeick/Documents/GitHub/summer-2022-vr-project/Plugins/VRExpansionPlugin/VRExpansionPlugin/Source/VRExpansionPlugin/Private/VRTrackedParentInterface.cpp

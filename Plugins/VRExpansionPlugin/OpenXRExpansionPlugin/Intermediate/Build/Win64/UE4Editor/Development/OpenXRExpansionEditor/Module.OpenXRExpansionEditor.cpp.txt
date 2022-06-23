@@ -1,6 +1,6 @@
-C:\Users\ybasha\Documents\Unreal Projects\VRBlockOut\Plugins\VRExpansionPlugin\OpenXRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\OpenXRExpansionEditor\Definitions.OpenXRExpansionEditor.h
-C:/Users/ybasha/Documents/Unreal Projects/VRBlockOut/Plugins/VRExpansionPlugin/OpenXRExpansionPlugin/Source/OpenXRExpansionEditor/Private/AnimGraphNode_ApplyOpenXRHandPose.cpp
-C:\Users\ybasha\Documents\Unreal Projects\VRBlockOut\Plugins\VRExpansionPlugin\OpenXRExpansionPlugin\Source\OpenXRExpansionEditor\Public\AnimGraphNode_ApplyOpenXRHandPose.h
+C:\Users\adeick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\OpenXRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\OpenXRExpansionEditor\Definitions.OpenXRExpansionEditor.h
+C:/Users/adeick/Documents/GitHub/summer-2022-vr-project/Plugins/VRExpansionPlugin/OpenXRExpansionPlugin/Source/OpenXRExpansionEditor/Private/AnimGraphNode_ApplyOpenXRHandPose.cpp
+C:\Users\adeick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\OpenXRExpansionPlugin\Source\OpenXRExpansionEditor\Public\AnimGraphNode_ApplyOpenXRHandPose.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\AnimGraph\Public\AnimGraphDefinitions.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\BlueprintGraph\Public\BlueprintGraphDefinitions.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\GraphEditAction.h
@@ -206,17 +206,17 @@ C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\In
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AnimBlueprintGeneratedClass.generated.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AnimGraph\AnimGraphNode_Base.generated.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AnimGraph\AnimGraphNode_SkeletalControlBase.generated.h
-C:\Users\ybasha\Documents\Unreal Projects\VRBlockOut\Plugins\VRExpansionPlugin\OpenXRExpansionPlugin\Source\OpenXRExpansionPlugin\Public\AnimNode_ApplyOpenXRHandPose.h
+C:\Users\adeick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\OpenXRExpansionPlugin\Source\OpenXRExpansionPlugin\Public\AnimNode_ApplyOpenXRHandPose.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime/AnimGraphRuntime/Public/BoneControllers/AnimNode_SkeletalControlBase.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Animation/InputScaleBias.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\InputScaleBias.generated.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AnimGraphRuntime\AnimNode_SkeletalControlBase.generated.h
-C:\Users\ybasha\Documents\Unreal Projects\VRBlockOut\Plugins\VRExpansionPlugin\OpenXRExpansionPlugin\Source\OpenXRExpansionPlugin\Public\OpenXRExpansionTypes.h
-C:\Users\ybasha\Documents\Unreal Projects\VRBlockOut\Plugins\VRExpansionPlugin\OpenXRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Inc\OpenXRExpansionPlugin\OpenXRExpansionTypes.Generated.h
-C:\Users\ybasha\Documents\Unreal Projects\VRBlockOut\Plugins\VRExpansionPlugin\OpenXRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Inc\OpenXRExpansionPlugin\AnimNode_ApplyOpenXRHandPose.generated.h
-C:\Users\ybasha\Documents\Unreal Projects\VRBlockOut\Plugins\VRExpansionPlugin\OpenXRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Inc\OpenXRExpansionEditor\AnimGraphNode_ApplyOpenXRHandPose.generated.h
-C:/Users/ybasha/Documents/Unreal Projects/VRBlockOut/Plugins/VRExpansionPlugin/OpenXRExpansionPlugin/Source/OpenXRExpansionEditor/Private/OpenXRExpansionEditor.cpp
-C:\Users\ybasha\Documents\Unreal Projects\VRBlockOut\Plugins\VRExpansionPlugin\OpenXRExpansionPlugin\Source\OpenXRExpansionEditor\Public\OpenXRExpansionEditor.h
+C:\Users\adeick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\OpenXRExpansionPlugin\Source\OpenXRExpansionPlugin\Public\OpenXRExpansionTypes.h
+C:\Users\adeick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\OpenXRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Inc\OpenXRExpansionPlugin\OpenXRExpansionTypes.Generated.h
+C:\Users\adeick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\OpenXRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Inc\OpenXRExpansionPlugin\AnimNode_ApplyOpenXRHandPose.generated.h
+C:\Users\adeick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\OpenXRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Inc\OpenXRExpansionEditor\AnimGraphNode_ApplyOpenXRHandPose.generated.h
+C:/Users/adeick/Documents/GitHub/summer-2022-vr-project/Plugins/VRExpansionPlugin/OpenXRExpansionPlugin/Source/OpenXRExpansionEditor/Private/OpenXRExpansionEditor.cpp
+C:\Users\adeick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\OpenXRExpansionPlugin\Source\OpenXRExpansionEditor\Public\OpenXRExpansionEditor.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\UnrealEd\Classes\Editor/UnrealEdEngine.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\UnrealEd\Public\IPackageAutoSaver.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Developer\SourceControl\Public\ISourceControlProvider.h

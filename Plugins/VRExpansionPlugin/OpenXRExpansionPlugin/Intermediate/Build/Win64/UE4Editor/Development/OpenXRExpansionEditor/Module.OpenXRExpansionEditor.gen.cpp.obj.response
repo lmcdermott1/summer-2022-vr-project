@@ -32,7 +32,7 @@
 /wd4244
 /wd4838
 /I .
-/I "C:\Users\ybasha\Documents\Unreal Projects\VRBlockOut\Plugins\VRExpansionPlugin\OpenXRExpansionPlugin\Source\OpenXRExpansionEditor\Private"
+/I C:\Users\adeick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\OpenXRExpansionPlugin\Source\OpenXRExpansionEditor\Private
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd
 /I Editor
 /I Programs\UnrealLightmass\Public
@@ -237,11 +237,11 @@
 /I Editor\AnimGraph\Public
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\AnimGraphRuntime
 /I Runtime\AnimGraphRuntime\Public
-/I "C:\Users\ybasha\Documents\Unreal Projects\VRBlockOut\Plugins\VRExpansionPlugin\OpenXRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Inc\OpenXRExpansionPlugin"
-/I "C:\Users\ybasha\Documents\Unreal Projects\VRBlockOut\Plugins\VRExpansionPlugin\OpenXRExpansionPlugin\Source"
-/I "C:\Users\ybasha\Documents\Unreal Projects\VRBlockOut\Plugins\VRExpansionPlugin\OpenXRExpansionPlugin\Source\OpenXRExpansionPlugin\Public"
-/I "C:\Users\ybasha\Documents\Unreal Projects\VRBlockOut\Plugins\VRExpansionPlugin\OpenXRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Inc\OpenXRExpansionEditor"
-/I "C:\Users\ybasha\Documents\Unreal Projects\VRBlockOut\Plugins\VRExpansionPlugin\OpenXRExpansionPlugin\Source\OpenXRExpansionEditor\Public"
+/I C:\Users\adeick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\OpenXRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Inc\OpenXRExpansionPlugin
+/I C:\Users\adeick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\OpenXRExpansionPlugin\Source
+/I C:\Users\adeick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\OpenXRExpansionPlugin\Source\OpenXRExpansionPlugin\Public
+/I C:\Users\adeick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\OpenXRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Inc\OpenXRExpansionEditor
+/I C:\Users\adeick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\OpenXRExpansionPlugin\Source\OpenXRExpansionEditor\Public
 /I ThirdParty\PhysX3\PxShared\include
 /I ThirdParty\PhysX3\PxShared\include\cudamanager
 /I ThirdParty\PhysX3\PxShared\include\filebuf
@@ -265,18 +265,18 @@
 /I ThirdParty\PhysX3\APEX_1.4\shared\general\RenderDebug\public
 /I ThirdParty\PhysX3\APEX_1.4\shared\general\PairFilter\include
 /I ThirdParty\PhysX3\APEX_1.4\shared\internal\include
-/I "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE"
-/I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"
+/I "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\INCLUDE"
+/I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\include\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\winrt"
-/FI"C:\Users\ybasha\Documents\Unreal Projects\VRBlockOut\Intermediate\Build\Win64\VRBlockOutEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h"
-/Yu"C:\Users\ybasha\Documents\Unreal Projects\VRBlockOut\Intermediate\Build\Win64\VRBlockOutEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h"
-/Fp"C:\Users\ybasha\Documents\Unreal Projects\VRBlockOut\Intermediate\Build\Win64\VRBlockOutEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.pch"
-"C:\Users\ybasha\Documents\Unreal Projects\VRBlockOut\Plugins\VRExpansionPlugin\OpenXRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\OpenXRExpansionEditor\Module.OpenXRExpansionEditor.gen.cpp"
-/FI"C:\Users\ybasha\Documents\Unreal Projects\VRBlockOut\Plugins\VRExpansionPlugin\OpenXRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\OpenXRExpansionEditor\Definitions.OpenXRExpansionEditor.h"
-/Fo"C:\Users\ybasha\Documents\Unreal Projects\VRBlockOut\Plugins\VRExpansionPlugin\OpenXRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\OpenXRExpansionEditor\Module.OpenXRExpansionEditor.gen.cpp.obj"
+/FI"C:\Users\adeick\Documents\GitHub\summer-2022-vr-project\Intermediate\Build\Win64\VRBlockOutEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h"
+/Yu"C:\Users\adeick\Documents\GitHub\summer-2022-vr-project\Intermediate\Build\Win64\VRBlockOutEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h"
+/Fp"C:\Users\adeick\Documents\GitHub\summer-2022-vr-project\Intermediate\Build\Win64\VRBlockOutEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.pch"
+"C:\Users\adeick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\OpenXRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\OpenXRExpansionEditor\Module.OpenXRExpansionEditor.gen.cpp"
+/FI"C:\Users\adeick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\OpenXRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\OpenXRExpansionEditor\Definitions.OpenXRExpansionEditor.h"
+/Fo"C:\Users\adeick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\OpenXRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\OpenXRExpansionEditor\Module.OpenXRExpansionEditor.gen.cpp.obj"
 /TP
 /GR-
 /W4

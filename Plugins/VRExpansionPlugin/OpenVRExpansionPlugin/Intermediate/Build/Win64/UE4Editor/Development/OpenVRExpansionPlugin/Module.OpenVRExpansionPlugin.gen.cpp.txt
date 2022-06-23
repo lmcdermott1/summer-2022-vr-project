@@ -1,20 +1,20 @@
-C:\Users\ybasha\Documents\Unreal Projects\VRBlockOut\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\OpenVRExpansionPlugin\Definitions.OpenVRExpansionPlugin.h
-C:/Users/ybasha/Documents/Unreal Projects/VRBlockOut/Plugins/VRExpansionPlugin/OpenVRExpansionPlugin/Intermediate/Build/Win64/UE4Editor/Inc/OpenVRExpansionPlugin/OpenVRExpansionFunctionLibrary.gen.cpp
+C:\Users\adeick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\OpenVRExpansionPlugin\Definitions.OpenVRExpansionPlugin.h
+C:/Users/adeick/Documents/GitHub/summer-2022-vr-project/Plugins/VRExpansionPlugin/OpenVRExpansionPlugin/Intermediate/Build/Win64/UE4Editor/Inc/OpenVRExpansionPlugin/OpenVRExpansionFunctionLibrary.gen.cpp
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
-C:\Users\ybasha\Documents\Unreal Projects\VRBlockOut\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Source\OpenVRExpansionPlugin/Public/OpenVRExpansionFunctionLibrary.h
+C:\Users\adeick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Source\OpenVRExpansionPlugin/Public/OpenVRExpansionFunctionLibrary.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\HeadMountedDisplay\Public\IMotionController.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\OpenVR\OpenVRv1_5_17\headers\openvr.h
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\string
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xstring
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\iosfwd
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cstdio
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cwchar
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xmemory
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\limits
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cfloat
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\isa_availability.h
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cctype
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\INCLUDE\string
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\INCLUDE\xstring
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\INCLUDE\iosfwd
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\INCLUDE\cstdio
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\INCLUDE\cwchar
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\INCLUDE\xmemory
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\INCLUDE\limits
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\INCLUDE\cfloat
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\INCLUDE\isa_availability.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\INCLUDE\cctype
 C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Runtime\ProceduralMeshComponent\Source\ProceduralMeshComponent\Public\ProceduralMeshComponent.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Runtime\ProceduralMeshComponent\Intermediate\Build\Win64\UE4Editor\Inc\ProceduralMeshComponent\ProceduralMeshComponent.generated.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Runtime\ProceduralMeshComponent\Source\ProceduralMeshComponent\Public\KismetProceduralMeshLibrary.h
@@ -29,10 +29,10 @@ C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\In
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\HeadMountedDisplay\HeadMountedDisplayFunctionLibrary.generated.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\HeadMountedDisplay\Public\IHeadMountedDisplay.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\HeadMountedDisplay\Public\LateUpdateManager.h
-C:\Users\ybasha\Documents\Unreal Projects\VRBlockOut\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Inc\OpenVRExpansionPlugin\OpenVRExpansionFunctionLibrary.generated.h
-C:/Users/ybasha/Documents/Unreal Projects/VRBlockOut/Plugins/VRExpansionPlugin/OpenVRExpansionPlugin/Intermediate/Build/Win64/UE4Editor/Inc/OpenVRExpansionPlugin/OpenVRExpansionPlugin.init.gen.cpp
-C:/Users/ybasha/Documents/Unreal Projects/VRBlockOut/Plugins/VRExpansionPlugin/OpenVRExpansionPlugin/Intermediate/Build/Win64/UE4Editor/Inc/OpenVRExpansionPlugin/SteamVRKeyboardComponent.gen.cpp
-C:\Users\ybasha\Documents\Unreal Projects\VRBlockOut\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Source\OpenVRExpansionPlugin/Public/SteamVRKeyboardComponent.h
+C:\Users\adeick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Inc\OpenVRExpansionPlugin\OpenVRExpansionFunctionLibrary.generated.h
+C:/Users/adeick/Documents/GitHub/summer-2022-vr-project/Plugins/VRExpansionPlugin/OpenVRExpansionPlugin/Intermediate/Build/Win64/UE4Editor/Inc/OpenVRExpansionPlugin/OpenVRExpansionPlugin.init.gen.cpp
+C:/Users/adeick/Documents/GitHub/summer-2022-vr-project/Plugins/VRExpansionPlugin/OpenVRExpansionPlugin/Intermediate/Build/Win64/UE4Editor/Inc/OpenVRExpansionPlugin/SteamVRKeyboardComponent.gen.cpp
+C:\Users\adeick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Source\OpenVRExpansionPlugin/Public/SteamVRKeyboardComponent.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\HeadMountedDisplay\Public\IXRTrackingSystem.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\HeadMountedDisplay\Public\IXRInput.h
-C:\Users\ybasha\Documents\Unreal Projects\VRBlockOut\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Inc\OpenVRExpansionPlugin\SteamVRKeyboardComponent.generated.h
+C:\Users\adeick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Inc\OpenVRExpansionPlugin\SteamVRKeyboardComponent.generated.h
