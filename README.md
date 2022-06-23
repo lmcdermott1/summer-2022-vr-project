@@ -1,6 +1,6 @@
-## Summer 2022 Intern VR Project
+# Summer 2022 Intern VR Project
 
-# Setting up Oculus
+## Setting up Oculus
 Power on your Quest and plug it into your computer using Oculus Link. 
 Put on the headset and Oculus should walk you through the setup process, 
 including setting the floor height and drawing a guardian barrier.
@@ -9,7 +9,7 @@ and select "Oculus Link" to enter the white Oculus Link landing page.
 
 Now set your Oculus aside and begin computer setup.
 
-# Installation Instructions
+## Installation Instructions
 In order to run this project, first download Epic Games Launcher.
 
 Navigate to Unreal Engine -> Library and Install Unreal Engine 4.27.
