@@ -70,5 +70,8 @@ Saved/*
 Intermediate/*
 Plugins/*/Intermediate/*
 
+Plugins/*
+Packaged Builds/*
+
 # Cache files for the editor to use
 DerivedDataCache/*
