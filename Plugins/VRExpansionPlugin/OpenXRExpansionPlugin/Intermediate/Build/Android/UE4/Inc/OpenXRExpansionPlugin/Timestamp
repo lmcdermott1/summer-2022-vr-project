@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 C:\Users\mcarrick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\OpenXRExpansionPlugin\Source\OpenXRExpansionPlugin\Public\OpenXRExpansionFunctionLibrary.h
 C:\Users\mcarrick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\OpenXRExpansionPlugin\Source\OpenXRExpansionPlugin\Public\AnimNode_ApplyOpenXRHandPose.h
 C:\Users\mcarrick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\OpenXRExpansionPlugin\Source\OpenXRExpansionPlugin\Public\OpenXRHandPoseComponent.h
 C:\Users\mcarrick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\OpenXRExpansionPlugin\Source\OpenXRExpansionPlugin\Public\OpenXRExpansionTypes.h
+=======
+C:\Users\ybasha\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\OpenXRExpansionPlugin\Source\OpenXRExpansionPlugin\Public\OpenXRExpansionFunctionLibrary.h
+C:\Users\ybasha\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\OpenXRExpansionPlugin\Source\OpenXRExpansionPlugin\Public\OpenXRHandPoseComponent.h
+C:\Users\ybasha\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\OpenXRExpansionPlugin\Source\OpenXRExpansionPlugin\Public\AnimNode_ApplyOpenXRHandPose.h
+C:\Users\ybasha\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\OpenXRExpansionPlugin\Source\OpenXRExpansionPlugin\Public\OpenXRExpansionTypes.h
+>>>>>>> main

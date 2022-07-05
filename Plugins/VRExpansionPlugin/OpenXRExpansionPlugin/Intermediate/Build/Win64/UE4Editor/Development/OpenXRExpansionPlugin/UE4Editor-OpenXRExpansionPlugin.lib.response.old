@@ -6,8 +6,8 @@
 /NAME:"UE4Editor-OpenXRExpansionPlugin.dll"
 /IGNORE:4221
 /NODEFAULTLIB
-"C:\Users\ybasha\Documents\Unreal Projects\VRBlockOut\Intermediate\Build\Win64\VRBlockOutEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
-"C:\Users\ybasha\Documents\Unreal Projects\VRBlockOut\Plugins\VRExpansionPlugin\OpenXRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\OpenXRExpansionPlugin\Module.OpenXRExpansionPlugin.cpp.obj"
-"C:\Users\ybasha\Documents\Unreal Projects\VRBlockOut\Plugins\VRExpansionPlugin\OpenXRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\OpenXRExpansionPlugin\Module.OpenXRExpansionPlugin.gen.cpp.obj"
-"C:\Users\ybasha\Documents\Unreal Projects\VRBlockOut\Plugins\VRExpansionPlugin\OpenXRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\OpenXRExpansionPlugin\Default.rc2.res"
-/OUT:"C:\Users\ybasha\Documents\Unreal Projects\VRBlockOut\Plugins\VRExpansionPlugin\OpenXRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\OpenXRExpansionPlugin\UE4Editor-OpenXRExpansionPlugin.lib"
+"C:\Users\adeick\Documents\GitHub\summer-2022-vr-project\Intermediate\Build\Win64\VRBlockOutEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\adeick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\OpenXRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\OpenXRExpansionPlugin\Module.OpenXRExpansionPlugin.cpp.obj"
+"C:\Users\adeick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\OpenXRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\OpenXRExpansionPlugin\Module.OpenXRExpansionPlugin.gen.cpp.obj"
+"C:\Users\adeick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\OpenXRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\OpenXRExpansionPlugin\Default.rc2.res"
+/OUT:"C:\Users\adeick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\OpenXRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\OpenXRExpansionPlugin\UE4Editor-OpenXRExpansionPlugin.lib"
