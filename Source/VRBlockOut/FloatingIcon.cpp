@@ -12,13 +12,13 @@ AFloatingIcon::AFloatingIcon()
     VisualMesh = CreateDefaultSubobject<UStaticMeshComponent>(TEXT("Mesh"));
     VisualMesh->SetupAttachment(RootComponent);
 
-    static ConstructorHelpers::FObjectFinder<UStaticMesh> CubeVisualAsset(TEXT(""));
+   // static ConstructorHelpers::FObjectFinder<UStaticMesh> CubeVisualAsset(TEXT("StaticMesh'/Game/MobileStarterContent/Shapes/Shape_Sphere.Shape_Sphere'"));
 
-    if (CubeVisualAsset.Succeeded())
-    {
-        VisualMesh->SetStaticMesh(CubeVisualAsset.Object);
-        VisualMesh->SetRelativeLocation(FVector(0.0f, 0.0f, 0.0f));
-    }
+   // if (CubeVisualAsset.Succeeded())
+   // {
+    //    VisualMesh->SetStaticMesh(CubeVisualAsset.Object);
+   //     VisualMesh->SetRelativeLocation(FVector(0.0f, 0.0f, 0.0f));
+   // }
 }
 
 // Called when the game starts or when spawned
