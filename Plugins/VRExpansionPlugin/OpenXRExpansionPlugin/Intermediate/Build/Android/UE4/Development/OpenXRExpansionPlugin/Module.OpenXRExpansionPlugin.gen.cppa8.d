@@ -1,4 +1,4 @@
-C:/Users/adeick/Documents/GitHub/summer-2022-vr-project/Plugins/VRExpansionPlugin/OpenXRExpansionPlugin/Intermediate/Build/Android/UE4/Development/OpenXRExpansionPlugin/Module.OpenXRExpansionPlugin.gen.cppa8.o: \
+C:/Users/ybasha/Documents/GitHub/summer-2022-vr-project/Plugins/VRExpansionPlugin/OpenXRExpansionPlugin/Intermediate/Build/Android/UE4/Development/OpenXRExpansionPlugin/Module.OpenXRExpansionPlugin.gen.cppa8.o: \
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\Runtime\Engine\Public\TextureLayout.h \
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\Runtime\Engine\Public\TextureLayout3d.h \
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Intermediate\Build\Android\UE4\Inc\Engine\SoundWave.generated.h \
@@ -1259,165 +1259,165 @@ C:/Users/adeick/Documents/GitHub/summer-2022-vr-project/Plugins/VRExpansionPlugi
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\Runtime\Core\Public\CoreTypes.h \
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\Runtime\Core\Public\Containers\ContainersFwd.h \
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\Runtime\Engine\Public\EngineSharedPCH.h \
-  C:\Users\adeick\Documents\GitHub\summer-2022-vr-project\Intermediate\Build\Android\VRBlockOut\Development\Engine\SharedPCH.Engine.ShadowErrors.h \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\initializer_list \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\__config \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\features.h \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\sys\cdefs.h \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\android\versioning.h \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\android\api-level.h \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\bits\get_device_api_level_inlines.h \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\android\ndk-version.h \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\cstddef \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\version \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\lib64\clang\12.0.5\include\stddef.h \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\lib64\clang\12.0.5\include\__stddef_max_align_t.h \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\__nullptr \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\new \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\exception \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\cstdlib \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\stdlib.h \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\local\include\stdlib.h \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\stdlib.h \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\alloca.h \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\bits\wait.h \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\linux\wait.h \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\malloc.h \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\stddef.h \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\stdio.h \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\stdio.h \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\sys\types.h \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\stdint.h \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\lib64\clang\12.0.5\include\stdint.h \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\stdint.h \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\bits\wchar_limits.h \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\linux\types.h \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\aarch64-linux-android\asm\types.h \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\asm-generic\types.h \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\asm-generic\int-ll64.h \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\aarch64-linux-android\asm\bitsperlong.h \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\asm-generic\bitsperlong.h \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\linux\posix_types.h \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\linux\stddef.h \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\linux\compiler_types.h \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\linux\compiler.h \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\aarch64-linux-android\asm\posix_types.h \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\asm-generic\posix_types.h \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\bits\pthread_types.h \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\lib64\clang\12.0.5\include\stdarg.h \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\bits\seek_constants.h \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\bits\struct_file.h \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\bits\fortify\stdio.h \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\xlocale.h \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\bits\fortify\stdlib.h \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\android\legacy_stdlib_inlines.h \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\math.h \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\local\include\math.h \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\math.h \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\limits.h \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\lib64\clang\12.0.5\include\limits.h \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\limits.h \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\float.h \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\lib64\clang\12.0.5\include\float.h \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\linux\limits.h \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\bits\posix_limits.h \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\type_traits \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\limits \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\__undef_macros \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\wchar.h \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\local\include\wchar.h \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\wchar.h \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\time.h \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\sys\time.h \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\linux\time.h \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\linux\time_types.h \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\sys\select.h \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\signal.h \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\aarch64-linux-android\asm\sigcontext.h \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\aarch64-linux-android\asm\sve_context.h \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\bits\signal_types.h \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\linux\signal.h \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\aarch64-linux-android\asm\signal.h \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\asm-generic\signal.h \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\asm-generic\signal-defs.h \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\aarch64-linux-android\asm\siginfo.h \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\asm-generic\siginfo.h \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\bits\timespec.h \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\sys\ucontext.h \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\sys\user.h \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\android\legacy_signal_inlines.h \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\bits\mbstate_t.h \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\bits\wctype.h \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\string.h \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\string.h \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\bits\strcasecmp.h \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\strings.h \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\bits\fortify\strings.h \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\bits\fortify\string.h \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\ctype.h \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\ctype.h \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\bits\ctype_inlines.h \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\wctype.h \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\local\include\wctype.h \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\wctype.h \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\pthread.h \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\sched.h \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\linux\sched.h \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\fcntl.h \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\linux\fadvise.h \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\linux\falloc.h \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\linux\fcntl.h \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\aarch64-linux-android\asm\fcntl.h \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\asm-generic\fcntl.h \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\bits\flock64.h \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\bits\flock.h \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\linux\openat2.h \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\linux\stat.h \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\linux\uio.h \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\bits\fcntl.h \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\bits\lockf.h \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\bits\fortify\fcntl.h \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\sys\stat.h \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\bits\fortify\stat.h \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\android\legacy_sys_stat_inlines.h \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\utime.h \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\linux\utime.h \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\unistd.h \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\bits\getopt.h \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\bits\ioctl.h \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\bits\sysconf.h \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\bits\fortify\unistd.h \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\android\legacy_unistd_inlines.h \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\bits\swab.h \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\errno.h \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\errno.h \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\linux\errno.h \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\aarch64-linux-android\asm\errno.h \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\asm-generic\errno.h \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\asm-generic\errno-base.h \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\android\legacy_errno_inlines.h \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\tuple \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\__tuple \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\__functional_base \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\typeinfo \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\cstdint \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\utility \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\cstring \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\__debug \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\iosfwd \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\lib64\clang\12.0.5\include\arm_neon.h \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\atomic \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\__threading_support \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\chrono \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\ctime \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\ratio \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\climits \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\semaphore.h \
-  C:\Users\adeick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\OpenXRExpansionPlugin\Intermediate\Build\Android\UE4\Development\OpenXRExpansionPlugin\Module.OpenXRExpansionPlugin.gen.cpp \
-  C:\Users\adeick\Documents\GitHub\summer-2022-vr-project\Intermediate\Build\Android\VRBlockOut\Development\Engine\SharedPCH.Engine.ShadowErrors.h \
+  C:\Users\ybasha\Documents\GitHub\summer-2022-vr-project\Intermediate\Build\Android\VRBlockOut\Development\Engine\SharedPCH.Engine.ShadowErrors.h \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\initializer_list \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\__config \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\features.h \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\sys\cdefs.h \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\android\versioning.h \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\android\api-level.h \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\bits\get_device_api_level_inlines.h \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\android\ndk-version.h \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\cstddef \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\version \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\lib64\clang\12.0.5\include\stddef.h \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\lib64\clang\12.0.5\include\__stddef_max_align_t.h \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\__nullptr \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\new \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\exception \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\cstdlib \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\stdlib.h \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\local\include\stdlib.h \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\stdlib.h \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\alloca.h \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\bits\wait.h \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\linux\wait.h \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\malloc.h \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\stddef.h \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\stdio.h \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\stdio.h \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\sys\types.h \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\stdint.h \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\lib64\clang\12.0.5\include\stdint.h \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\stdint.h \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\bits\wchar_limits.h \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\linux\types.h \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\aarch64-linux-android\asm\types.h \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\asm-generic\types.h \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\asm-generic\int-ll64.h \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\aarch64-linux-android\asm\bitsperlong.h \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\asm-generic\bitsperlong.h \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\linux\posix_types.h \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\linux\stddef.h \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\linux\compiler_types.h \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\linux\compiler.h \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\aarch64-linux-android\asm\posix_types.h \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\asm-generic\posix_types.h \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\bits\pthread_types.h \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\lib64\clang\12.0.5\include\stdarg.h \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\bits\seek_constants.h \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\bits\struct_file.h \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\bits\fortify\stdio.h \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\xlocale.h \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\bits\fortify\stdlib.h \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\android\legacy_stdlib_inlines.h \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\math.h \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\local\include\math.h \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\math.h \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\limits.h \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\lib64\clang\12.0.5\include\limits.h \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\limits.h \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\float.h \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\lib64\clang\12.0.5\include\float.h \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\linux\limits.h \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\bits\posix_limits.h \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\type_traits \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\limits \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\__undef_macros \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\wchar.h \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\local\include\wchar.h \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\wchar.h \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\time.h \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\sys\time.h \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\linux\time.h \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\linux\time_types.h \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\sys\select.h \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\signal.h \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\aarch64-linux-android\asm\sigcontext.h \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\aarch64-linux-android\asm\sve_context.h \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\bits\signal_types.h \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\linux\signal.h \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\aarch64-linux-android\asm\signal.h \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\asm-generic\signal.h \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\asm-generic\signal-defs.h \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\aarch64-linux-android\asm\siginfo.h \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\asm-generic\siginfo.h \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\bits\timespec.h \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\sys\ucontext.h \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\sys\user.h \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\android\legacy_signal_inlines.h \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\bits\mbstate_t.h \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\bits\wctype.h \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\string.h \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\string.h \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\bits\strcasecmp.h \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\strings.h \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\bits\fortify\strings.h \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\bits\fortify\string.h \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\ctype.h \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\ctype.h \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\bits\ctype_inlines.h \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\wctype.h \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\local\include\wctype.h \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\wctype.h \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\pthread.h \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\sched.h \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\linux\sched.h \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\fcntl.h \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\linux\fadvise.h \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\linux\falloc.h \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\linux\fcntl.h \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\aarch64-linux-android\asm\fcntl.h \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\asm-generic\fcntl.h \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\bits\flock64.h \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\bits\flock.h \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\linux\openat2.h \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\linux\stat.h \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\linux\uio.h \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\bits\fcntl.h \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\bits\lockf.h \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\bits\fortify\fcntl.h \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\sys\stat.h \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\bits\fortify\stat.h \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\android\legacy_sys_stat_inlines.h \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\utime.h \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\linux\utime.h \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\unistd.h \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\bits\getopt.h \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\bits\ioctl.h \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\bits\sysconf.h \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\bits\fortify\unistd.h \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\android\legacy_unistd_inlines.h \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\bits\swab.h \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\errno.h \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\errno.h \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\linux\errno.h \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\aarch64-linux-android\asm\errno.h \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\asm-generic\errno.h \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\asm-generic\errno-base.h \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\android\legacy_errno_inlines.h \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\tuple \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\__tuple \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\__functional_base \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\typeinfo \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\cstdint \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\utility \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\cstring \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\__debug \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\iosfwd \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\lib64\clang\12.0.5\include\arm_neon.h \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\atomic \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\__threading_support \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\chrono \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\ctime \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\ratio \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\climits \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\semaphore.h \
+  C:\Users\ybasha\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\OpenXRExpansionPlugin\Intermediate\Build\Android\UE4\Development\OpenXRExpansionPlugin\Module.OpenXRExpansionPlugin.gen.cpp \
+  C:\Users\ybasha\Documents\GitHub\summer-2022-vr-project\Intermediate\Build\Android\VRBlockOut\Development\Engine\SharedPCH.Engine.ShadowErrors.h \
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\Runtime\Engine\Public\EngineSharedPCH.h \
-  C:\Users\adeick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\OpenXRExpansionPlugin\Intermediate\Build\Android\UE4\Development\OpenXRExpansionPlugin\Definitions.OpenXRExpansionPlugin.h \
-  C:\Users\adeick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\OpenXRExpansionPlugin\Intermediate\Build\Android\UE4\Inc\OpenXRExpansionPlugin\AnimNode_ApplyOpenXRHandPose.gen.cpp \
+  C:\Users\ybasha\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\OpenXRExpansionPlugin\Intermediate\Build\Android\UE4\Development\OpenXRExpansionPlugin\Definitions.OpenXRExpansionPlugin.h \
+  C:\Users\ybasha\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\OpenXRExpansionPlugin\Intermediate\Build\Android\UE4\Inc\OpenXRExpansionPlugin\AnimNode_ApplyOpenXRHandPose.gen.cpp \
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject\GeneratedCppIncludes.h \
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\Runtime\Core\Public\CoreMinimal.h \
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject\Object.h \
@@ -1432,7 +1432,7 @@ C:/Users/adeick/Documents/GitHub/summer-2022-vr-project/Plugins/VRExpansionPlugi
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject\EnumProperty.h \
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject\TextProperty.h \
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject\FieldPathProperty.h \
-  C:\Users\adeick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\OpenXRExpansionPlugin\Source\OpenXRExpansionPlugin\Public\AnimNode_ApplyOpenXRHandPose.h \
+  C:\Users\ybasha\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\OpenXRExpansionPlugin\Source\OpenXRExpansionPlugin\Public\AnimNode_ApplyOpenXRHandPose.h \
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\Runtime\AnimGraphRuntime\Public\BoneControllers\AnimNode_SkeletalControlBase.h \
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\Runtime\Engine\Public\BonePose.h \
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Animation\AnimNodeBase.h \
@@ -1441,13 +1441,13 @@ C:/Users/adeick/Documents/GitHub/summer-2022-vr-project/Plugins/VRExpansionPlugi
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Intermediate\Build\Android\UE4\Inc\Engine\InputScaleBias.generated.h \
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject\ScriptMacros.h \
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Intermediate\Build\Android\UE4\Inc\AnimGraphRuntime\AnimNode_SkeletalControlBase.generated.h \
-  C:\Users\adeick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\OpenXRExpansionPlugin\Source\OpenXRExpansionPlugin\Public\OpenXRExpansionTypes.h \
+  C:\Users\ybasha\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\OpenXRExpansionPlugin\Source\OpenXRExpansionPlugin\Public\OpenXRExpansionTypes.h \
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet\BlueprintFunctionLibrary.h \
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine\EngineTypes.h \
-  C:\Users\adeick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\OpenXRExpansionPlugin\Intermediate\Build\Android\UE4\Inc\OpenXRExpansionPlugin\OpenXRExpansionTypes.Generated.h \
-  C:\Users\adeick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\OpenXRExpansionPlugin\Intermediate\Build\Android\UE4\Inc\OpenXRExpansionPlugin\AnimNode_ApplyOpenXRHandPose.generated.h \
-  C:\Users\adeick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\OpenXRExpansionPlugin\Intermediate\Build\Android\UE4\Inc\OpenXRExpansionPlugin\OpenXRExpansionFunctionLibrary.gen.cpp \
-  C:\Users\adeick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\OpenXRExpansionPlugin\Source\OpenXRExpansionPlugin\Public\OpenXRExpansionFunctionLibrary.h \
+  C:\Users\ybasha\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\OpenXRExpansionPlugin\Intermediate\Build\Android\UE4\Inc\OpenXRExpansionPlugin\OpenXRExpansionTypes.Generated.h \
+  C:\Users\ybasha\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\OpenXRExpansionPlugin\Intermediate\Build\Android\UE4\Inc\OpenXRExpansionPlugin\AnimNode_ApplyOpenXRHandPose.generated.h \
+  C:\Users\ybasha\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\OpenXRExpansionPlugin\Intermediate\Build\Android\UE4\Inc\OpenXRExpansionPlugin\OpenXRExpansionFunctionLibrary.gen.cpp \
+  C:\Users\ybasha\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\OpenXRExpansionPlugin\Source\OpenXRExpansionPlugin\Public\OpenXRExpansionFunctionLibrary.h \
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\Runtime\HeadMountedDisplay\Public\HeadMountedDisplayTypes.h \
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\Runtime\HeadMountedDisplay\Public\IMotionController.h \
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\Runtime\Core\Public\Features\IModularFeature.h \
@@ -1458,8 +1458,8 @@ C:/Users/adeick/Documents/GitHub/summer-2022-vr-project/Plugins/VRExpansionPlugi
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Plugins\Runtime\OpenXR\Source\OpenXRHMD\Public\OpenXRCore.h \
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\ThirdParty\OpenXR\include\openxr\openxr.h \
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\ThirdParty\OpenXR\include\openxr\openxr_platform_defines.h \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\stddef.h \
-  C:\Users\adeick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\stdint.h \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\stddef.h \
+  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\stdint.h \
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\ThirdParty\OpenXR\include\openxr\openxr_reflection.h \
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Plugins\Runtime\OpenXR\Source\OpenXRHMD\Private\OpenXRHMD.h \
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Plugins\Runtime\OpenXR\Source\OpenXRHMD\Private\OpenXRHMD_Layer.h \
@@ -1531,12 +1531,12 @@ C:/Users/adeick/Documents/GitHub/summer-2022-vr-project/Plugins/VRExpansionPlugi
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Intermediate\Build\Android\UE4\Inc\HeadMountedDisplay\HeadMountedDisplayFunctionLibrary.generated.h \
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc\FileHelper.h \
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc\Paths.h \
-  C:\Users\adeick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\OpenXRExpansionPlugin\Intermediate\Build\Android\UE4\Inc\OpenXRExpansionPlugin\OpenXRExpansionFunctionLibrary.generated.h \
-  C:\Users\adeick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\OpenXRExpansionPlugin\Intermediate\Build\Android\UE4\Inc\OpenXRExpansionPlugin\OpenXRExpansionPlugin.init.gen.cpp \
-  C:\Users\adeick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\OpenXRExpansionPlugin\Intermediate\Build\Android\UE4\Inc\OpenXRExpansionPlugin\OpenXRExpansionTypes.gen.cpp \
-  C:\Users\adeick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\OpenXRExpansionPlugin\Source\OpenXRExpansionPlugin\Public\OpenXRExpansionTypes.h \
-  C:\Users\adeick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\OpenXRExpansionPlugin\Intermediate\Build\Android\UE4\Inc\OpenXRExpansionPlugin\OpenXRHandPoseComponent.gen.cpp \
-  C:\Users\adeick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\OpenXRExpansionPlugin\Source\OpenXRExpansionPlugin\Public\OpenXRHandPoseComponent.h \
+  C:\Users\ybasha\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\OpenXRExpansionPlugin\Intermediate\Build\Android\UE4\Inc\OpenXRExpansionPlugin\OpenXRExpansionFunctionLibrary.generated.h \
+  C:\Users\ybasha\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\OpenXRExpansionPlugin\Intermediate\Build\Android\UE4\Inc\OpenXRExpansionPlugin\OpenXRExpansionPlugin.init.gen.cpp \
+  C:\Users\ybasha\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\OpenXRExpansionPlugin\Intermediate\Build\Android\UE4\Inc\OpenXRExpansionPlugin\OpenXRExpansionTypes.gen.cpp \
+  C:\Users\ybasha\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\OpenXRExpansionPlugin\Source\OpenXRExpansionPlugin\Public\OpenXRExpansionTypes.h \
+  C:\Users\ybasha\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\OpenXRExpansionPlugin\Intermediate\Build\Android\UE4\Inc\OpenXRExpansionPlugin\OpenXRHandPoseComponent.gen.cpp \
+  C:\Users\ybasha\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\OpenXRExpansionPlugin\Source\OpenXRExpansionPlugin\Public\OpenXRHandPoseComponent.h \
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\Runtime\Engine\Public\Animation\AnimInstanceProxy.h \
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\Runtime\Engine\Public\Animation\AnimTypes.h \
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\Runtime\Engine\Public\BoneContainer.h \
@@ -1552,5 +1552,5 @@ C:/Users/adeick/Documents/GitHub/summer-2022-vr-project/Plugins/VRExpansionPlugi
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\Runtime\Core\Public\Logging\TokenizedMessage.h \
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\Runtime\Engine\Public\Animation\AnimTrace.h \
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Intermediate\Build\Android\UE4\Inc\Engine\AnimInstanceProxy.generated.h \
-  C:\Users\adeick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\OpenXRExpansionPlugin\Intermediate\Build\Android\UE4\Inc\OpenXRExpansionPlugin\OpenXRHandPoseComponent.generated.h \
+  C:\Users\ybasha\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\OpenXRExpansionPlugin\Intermediate\Build\Android\UE4\Inc\OpenXRExpansionPlugin\OpenXRHandPoseComponent.generated.h \
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components\SkeletalMeshComponent.h

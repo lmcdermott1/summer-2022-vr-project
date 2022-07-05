@@ -2,7 +2,7 @@
 	"BuildId": "17155196",
 	"Modules": 
 	{
-		"VRExpansionEditor": "UE4Editor-VRExpansionEditor.dll",
-		"VRExpansionPlugin": "UE4Editor-VRExpansionPlugin.dll"
+		"VRExpansionEditor": "UE4Editor-VRExpansionEditor-0005.dll",
+		"VRExpansionPlugin": "UE4Editor-VRExpansionPlugin-0005.dll"
 	}
 }
