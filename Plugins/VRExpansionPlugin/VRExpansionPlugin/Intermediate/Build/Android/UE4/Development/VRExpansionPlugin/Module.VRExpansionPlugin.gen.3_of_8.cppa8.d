@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 C:/Users/mcarrick/Documents/GitHub/summer-2022-vr-project/Plugins/VRExpansionPlugin/VRExpansionPlugin/Intermediate/Build/Android/UE4/Development/VRExpansionPlugin/Module.VRExpansionPlugin.gen.3_of_8.cppa8.o: \
-=======
-C:/Users/ybasha/Documents/GitHub/summer-2022-vr-project/Plugins/VRExpansionPlugin/VRExpansionPlugin/Intermediate/Build/Android/UE4/Development/VRExpansionPlugin/Module.VRExpansionPlugin.gen.3_of_8.cppa8.o: \
->>>>>>> main
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\Runtime\Engine\Public\TextureLayout.h \
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\Runtime\Engine\Public\TextureLayout3d.h \
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Intermediate\Build\Android\UE4\Inc\Engine\SoundWave.generated.h \
@@ -1263,7 +1259,6 @@ C:/Users/ybasha/Documents/GitHub/summer-2022-vr-project/Plugins/VRExpansionPlugi
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\Runtime\Core\Public\CoreTypes.h \
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\Runtime\Core\Public\Containers\ContainersFwd.h \
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\Runtime\Engine\Public\EngineSharedPCH.h \
-<<<<<<< HEAD
   C:\Users\mcarrick\Documents\GitHub\summer-2022-vr-project\Intermediate\Build\Android\VRBlockOut\Development\Engine\SharedPCH.Engine.ShadowErrors.h \
   C:\Users\mcarrick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\initializer_list \
   C:\Users\mcarrick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\__config \
@@ -1423,167 +1418,6 @@ C:/Users/ybasha/Documents/GitHub/summer-2022-vr-project/Plugins/VRExpansionPlugi
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\Runtime\Engine\Public\EngineSharedPCH.h \
   C:\Users\mcarrick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Android\UE4\Development\VRExpansionPlugin\Definitions.VRExpansionPlugin.h \
   C:\Users\mcarrick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Android\UE4\Inc\VRExpansionPlugin\GS_InteractibleSettings.gen.cpp \
-=======
-  C:\Users\ybasha\Documents\GitHub\summer-2022-vr-project\Intermediate\Build\Android\VRBlockOut\Development\Engine\SharedPCH.Engine.ShadowErrors.h \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\initializer_list \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\__config \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\features.h \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\sys\cdefs.h \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\android\versioning.h \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\android\api-level.h \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\bits\get_device_api_level_inlines.h \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\android\ndk-version.h \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\cstddef \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\version \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\lib64\clang\12.0.5\include\stddef.h \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\lib64\clang\12.0.5\include\__stddef_max_align_t.h \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\__nullptr \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\new \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\exception \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\cstdlib \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\stdlib.h \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\local\include\stdlib.h \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\stdlib.h \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\alloca.h \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\bits\wait.h \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\linux\wait.h \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\malloc.h \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\stddef.h \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\stdio.h \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\stdio.h \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\sys\types.h \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\stdint.h \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\lib64\clang\12.0.5\include\stdint.h \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\stdint.h \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\bits\wchar_limits.h \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\linux\types.h \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\aarch64-linux-android\asm\types.h \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\asm-generic\types.h \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\asm-generic\int-ll64.h \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\aarch64-linux-android\asm\bitsperlong.h \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\asm-generic\bitsperlong.h \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\linux\posix_types.h \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\linux\stddef.h \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\linux\compiler_types.h \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\linux\compiler.h \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\aarch64-linux-android\asm\posix_types.h \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\asm-generic\posix_types.h \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\bits\pthread_types.h \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\lib64\clang\12.0.5\include\stdarg.h \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\bits\seek_constants.h \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\bits\struct_file.h \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\bits\fortify\stdio.h \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\xlocale.h \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\bits\fortify\stdlib.h \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\android\legacy_stdlib_inlines.h \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\math.h \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\local\include\math.h \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\math.h \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\limits.h \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\lib64\clang\12.0.5\include\limits.h \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\limits.h \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\float.h \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\lib64\clang\12.0.5\include\float.h \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\linux\limits.h \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\bits\posix_limits.h \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\type_traits \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\limits \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\__undef_macros \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\wchar.h \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\local\include\wchar.h \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\wchar.h \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\time.h \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\sys\time.h \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\linux\time.h \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\linux\time_types.h \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\sys\select.h \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\signal.h \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\aarch64-linux-android\asm\sigcontext.h \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\aarch64-linux-android\asm\sve_context.h \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\bits\signal_types.h \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\linux\signal.h \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\aarch64-linux-android\asm\signal.h \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\asm-generic\signal.h \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\asm-generic\signal-defs.h \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\aarch64-linux-android\asm\siginfo.h \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\asm-generic\siginfo.h \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\bits\timespec.h \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\sys\ucontext.h \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\sys\user.h \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\android\legacy_signal_inlines.h \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\bits\mbstate_t.h \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\bits\wctype.h \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\string.h \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\string.h \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\bits\strcasecmp.h \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\strings.h \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\bits\fortify\strings.h \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\bits\fortify\string.h \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\ctype.h \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\ctype.h \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\bits\ctype_inlines.h \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\wctype.h \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\local\include\wctype.h \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\wctype.h \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\pthread.h \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\sched.h \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\linux\sched.h \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\fcntl.h \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\linux\fadvise.h \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\linux\falloc.h \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\linux\fcntl.h \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\aarch64-linux-android\asm\fcntl.h \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\asm-generic\fcntl.h \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\bits\flock64.h \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\bits\flock.h \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\linux\openat2.h \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\linux\stat.h \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\linux\uio.h \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\bits\fcntl.h \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\bits\lockf.h \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\bits\fortify\fcntl.h \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\sys\stat.h \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\bits\fortify\stat.h \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\android\legacy_sys_stat_inlines.h \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\utime.h \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\linux\utime.h \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\unistd.h \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\bits\getopt.h \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\bits\ioctl.h \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\bits\sysconf.h \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\bits\fortify\unistd.h \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\android\legacy_unistd_inlines.h \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\bits\swab.h \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\errno.h \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\errno.h \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\linux\errno.h \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\aarch64-linux-android\asm\errno.h \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\asm-generic\errno.h \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\asm-generic\errno-base.h \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\android\legacy_errno_inlines.h \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\tuple \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\__tuple \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\__functional_base \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\typeinfo \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\cstdint \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\utility \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\cstring \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\__debug \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\iosfwd \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\lib64\clang\12.0.5\include\arm_neon.h \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\atomic \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\__threading_support \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\chrono \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\ctime \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\ratio \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\climits \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\semaphore.h \
-  C:\Users\ybasha\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Android\UE4\Development\VRExpansionPlugin\Module.VRExpansionPlugin.gen.3_of_8.cpp \
-  C:\Users\ybasha\Documents\GitHub\summer-2022-vr-project\Intermediate\Build\Android\VRBlockOut\Development\Engine\SharedPCH.Engine.ShadowErrors.h \
-  C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\Runtime\Engine\Public\EngineSharedPCH.h \
-  C:\Users\ybasha\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Android\UE4\Development\VRExpansionPlugin\Definitions.VRExpansionPlugin.h \
-  C:\Users\ybasha\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Android\UE4\Inc\VRExpansionPlugin\GS_InteractibleSettings.gen.cpp \
->>>>>>> main
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject\GeneratedCppIncludes.h \
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\Runtime\Core\Public\CoreMinimal.h \
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject\Object.h \
@@ -1598,7 +1432,6 @@ C:/Users/ybasha/Documents/GitHub/summer-2022-vr-project/Plugins/VRExpansionPlugi
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject\EnumProperty.h \
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject\TextProperty.h \
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject\FieldPathProperty.h \
-<<<<<<< HEAD
   C:\Users\mcarrick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\GripScripts\GS_InteractibleSettings.h \
   C:\Users\mcarrick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\GripScripts\VRGripScriptBase.h \
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine\Engine.h \
@@ -1607,16 +1440,6 @@ C:/Users/ybasha/Documents/GitHub/summer-2022-vr-project/Plugins/VRExpansionPlugi
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\Runtime\Engine\Public\PhysicsPublic.h \
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\PhysicsEngine\ConstraintDrives.h \
   C:\Users\mcarrick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Android\UE4\Inc\VRExpansionPlugin\VRBPDatatypes.generated.h \
-=======
-  C:\Users\ybasha\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\GripScripts\GS_InteractibleSettings.h \
-  C:\Users\ybasha\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\GripScripts\VRGripScriptBase.h \
-  C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine\Engine.h \
-  C:\Users\ybasha\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\VRBPDatatypes.h \
-  C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components\PrimitiveComponent.h \
-  C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\Runtime\Engine\Public\PhysicsPublic.h \
-  C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\PhysicsEngine\ConstraintDrives.h \
-  C:\Users\ybasha\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Android\UE4\Inc\VRExpansionPlugin\VRBPDatatypes.generated.h \
->>>>>>> main
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject\ScriptMacros.h \
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework\Actor.h \
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\Runtime\Engine\Public\Tickable.h \
@@ -1624,7 +1447,6 @@ C:/Users/ybasha/Documents/GitHub/summer-2022-vr-project/Plugins/VRExpansionPlugi
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject\CoreNet.h \
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\Runtime\Engine\Public\EngineLogs.h \
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine\EngineBaseTypes.h \
-<<<<<<< HEAD
   C:\Users\mcarrick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Android\UE4\Inc\VRExpansionPlugin\VRGripScriptBase.generated.h \
   C:\Users\mcarrick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Android\UE4\Inc\VRExpansionPlugin\GS_InteractibleSettings.generated.h \
   C:\Users\mcarrick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Android\UE4\Inc\VRExpansionPlugin\GS_LerpToHand.gen.cpp \
@@ -1637,20 +1459,6 @@ C:/Users/ybasha/Documents/GitHub/summer-2022-vr-project/Plugins/VRExpansionPlugi
   C:\Users\mcarrick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\GripScripts\GS_Default.h \
   C:\Users\mcarrick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Android\UE4\Inc\VRExpansionPlugin\GS_Default.generated.h \
   C:\Users\mcarrick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Android\UE4\Inc\VRExpansionPlugin\GS_Melee.generated.h \
-=======
-  C:\Users\ybasha\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Android\UE4\Inc\VRExpansionPlugin\VRGripScriptBase.generated.h \
-  C:\Users\ybasha\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Android\UE4\Inc\VRExpansionPlugin\GS_InteractibleSettings.generated.h \
-  C:\Users\ybasha\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Android\UE4\Inc\VRExpansionPlugin\GS_LerpToHand.gen.cpp \
-  C:\Users\ybasha\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\GripScripts\GS_LerpToHand.h \
-  C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Curves\CurveFloat.h \
-  C:\Users\ybasha\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Android\UE4\Inc\VRExpansionPlugin\GS_LerpToHand.generated.h \
-  C:\Users\ybasha\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Android\UE4\Inc\VRExpansionPlugin\GS_Melee.gen.cpp \
-  C:\Users\ybasha\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\GripScripts\GS_Melee.h \
-  C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework\WorldSettings.h \
-  C:\Users\ybasha\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\GripScripts\GS_Default.h \
-  C:\Users\ybasha\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Android\UE4\Inc\VRExpansionPlugin\GS_Default.generated.h \
-  C:\Users\ybasha\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Android\UE4\Inc\VRExpansionPlugin\GS_Melee.generated.h \
->>>>>>> main
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\Runtime\Engine\Public\PhysXPublic.h \
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\Runtime\PhysicsCore\Public\PhysXPublicCore.h \
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\Runtime\Core\Public\Stats\Stats.h \
@@ -1658,7 +1466,6 @@ C:/Users/ybasha/Documents/GitHub/summer-2022-vr-project/Plugins/VRExpansionPlugi
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation\Px.h \
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation\PxSimpleTypes.h \
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation\PxPreprocessor.h \
-<<<<<<< HEAD
   C:\Users\mcarrick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\stddef.h \
   C:\Users\mcarrick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\ciso646 \
   C:\Users\mcarrick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\__config \
@@ -1670,19 +1477,6 @@ C:/Users/ybasha/Documents/GitHub/summer-2022-vr-project/Plugins/VRExpansionPlugi
   C:\Users\mcarrick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\sys\cdefs.h \
   C:\Users\mcarrick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\string.h \
   C:\Users\mcarrick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\stdlib.h \
-=======
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\stddef.h \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\ciso646 \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\__config \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\stdint.h \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\inttypes.h \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\local\include\inttypes.h \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\lib64\clang\12.0.5\include\inttypes.h \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\inttypes.h \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\sys\cdefs.h \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\string.h \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\stdlib.h \
->>>>>>> main
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\PxPhysicsAPI.h \
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation\Px.h \
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation\PxAllocatorCallback.h \
@@ -1693,7 +1487,6 @@ C:/Users/ybasha/Documents/GitHub/summer-2022-vr-project/Plugins/VRExpansionPlugi
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation\PxQuat.h \
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation\PxVec3.h \
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation\PxMath.h \
-<<<<<<< HEAD
   C:\Users\mcarrick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\math.h \
   C:\Users\mcarrick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\float.h \
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation\PxIntrinsics.h \
@@ -1702,16 +1495,6 @@ C:/Users/ybasha/Documents/GitHub/summer-2022-vr-project/Plugins/VRExpansionPlugi
   C:\Users\mcarrick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\version \
   C:\Users\mcarrick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\type_traits \
   C:\Users\mcarrick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\__undef_macros \
-=======
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\math.h \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\float.h \
-  C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation\PxIntrinsics.h \
-  C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation\unix\PxUnixIntrinsics.h \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\cmath \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\version \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\type_traits \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\__undef_macros \
->>>>>>> main
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation\PxPlane.h \
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation\PxMat33.h \
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation\PxErrorCallback.h \
@@ -1865,22 +1648,14 @@ C:/Users/ybasha/Documents/GitHub/summer-2022-vr-project/Plugins/VRExpansionPlugi
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\cooking\PxBVH34MidphaseDesc.h \
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\cooking\PxMidphaseDesc.h \
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\extensions\PxDefaultStreams.h \
-<<<<<<< HEAD
   C:\Users\mcarrick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\stdio.h \
-=======
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\stdio.h \
->>>>>>> main
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\extensions\PxDistanceJoint.h \
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\extensions\PxJoint.h \
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\PxRigidActor.h \
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\PxConstraint.h \
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\extensions\PxExtensionsAPI.h \
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\extensions\PxDefaultAllocator.h \
-<<<<<<< HEAD
   C:\Users\mcarrick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\malloc.h \
-=======
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\malloc.h \
->>>>>>> main
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\extensions\PxConstraintExt.h \
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\extensions\PxDistanceJoint.h \
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\extensions\PxFixedJoint.h \
@@ -1988,21 +1763,12 @@ C:/Users/ybasha/Documents/GitHub/summer-2022-vr-project/Plugins/VRExpansionPlugi
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\geometry\PxTriangle.h \
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\Runtime\PhysicsCore\Public\PhysicsInterfaceTypesCore.h \
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\Runtime\PhysicsCore\Public\CollisionShape.h \
-<<<<<<< HEAD
   C:\Users\mcarrick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Android\UE4\Inc\VRExpansionPlugin\GS_Physics.gen.cpp \
   C:\Users\mcarrick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\GripScripts\GS_Physics.h \
   C:\Users\mcarrick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Android\UE4\Inc\VRExpansionPlugin\GS_Physics.generated.h \
   C:\Users\mcarrick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Android\UE4\Inc\VRExpansionPlugin\HandSocketComponent.gen.cpp \
   C:\Users\mcarrick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\Grippables\HandSocketComponent.h \
   C:\Users\mcarrick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\GripMotionControllerComponent.h \
-=======
-  C:\Users\ybasha\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Android\UE4\Inc\VRExpansionPlugin\GS_Physics.gen.cpp \
-  C:\Users\ybasha\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\GripScripts\GS_Physics.h \
-  C:\Users\ybasha\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Android\UE4\Inc\VRExpansionPlugin\GS_Physics.generated.h \
-  C:\Users\ybasha\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Android\UE4\Inc\VRExpansionPlugin\HandSocketComponent.gen.cpp \
-  C:\Users\ybasha\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\Grippables\HandSocketComponent.h \
-  C:\Users\ybasha\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\GripMotionControllerComponent.h \
->>>>>>> main
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\Runtime\HeadMountedDisplay\Public\IMotionController.h \
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\Runtime\Core\Public\Features\IModularFeature.h \
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\Runtime\Engine\Public\SceneViewExtension.h \
@@ -2012,11 +1778,7 @@ C:/Users/ybasha/Documents/GitHub/summer-2022-vr-project/Plugins/VRExpansionPlugi
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\Runtime\Engine\Public\SceneInterface.h \
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\Runtime\Engine\Public\UnrealClient.h \
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Intermediate\Build\Android\UE4\Inc\Engine\SceneViewExtensionContext.generated.h \
-<<<<<<< HEAD
   C:\Users\mcarrick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\VRBPDatatypes.h \
-=======
-  C:\Users\ybasha\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\VRBPDatatypes.h \
->>>>>>> main
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\Runtime\HeadMountedDisplay\Public\MotionControllerComponent.h \
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\Runtime\HeadMountedDisplay\Public\IMotionController.h \
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\Runtime\HeadMountedDisplay\Public\LateUpdateManager.h \
@@ -2037,19 +1799,11 @@ C:/Users/ybasha/Documents/GitHub/summer-2022-vr-project/Plugins/VRExpansionPlugi
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\Runtime\HeadMountedDisplay\Public\XRGestureConfig.h \
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Intermediate\Build\Android\UE4\Inc\HeadMountedDisplay\XRGestureConfig.generated.h \
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\Runtime\Engine\Public\StereoRendering.h \
-<<<<<<< HEAD
   C:\Users\mcarrick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\VRGripInterface.h \
   C:\Users\mcarrick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\GripScripts\VRGripScriptBase.h \
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject\Interface.h \
   C:\Users\mcarrick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Android\UE4\Inc\VRExpansionPlugin\VRGripInterface.generated.h \
   C:\Users\mcarrick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\VRGlobalSettings.h \
-=======
-  C:\Users\ybasha\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\VRGripInterface.h \
-  C:\Users\ybasha\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\GripScripts\VRGripScriptBase.h \
-  C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject\Interface.h \
-  C:\Users\ybasha\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Android\UE4\Inc\VRExpansionPlugin\VRGripInterface.generated.h \
-  C:\Users\ybasha\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\VRGlobalSettings.h \
->>>>>>> main
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework\PlayerInput.h \
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Framework\Commands\InputChord.h \
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\Runtime\Engine\Public\GestureRecognizer.h \
@@ -2059,17 +1813,10 @@ C:/Users/ybasha/Documents/GitHub/summer-2022-vr-project/Plugins/VRExpansionPlugi
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject\SoftObjectPath.h \
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components\InputComponent.h \
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Intermediate\Build\Android\UE4\Inc\Engine\InputSettings.generated.h \
-<<<<<<< HEAD
   C:\Users\mcarrick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\GripScripts\GS_Melee.h \
   C:\Users\mcarrick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\GripScripts\GS_GunTools.h \
   C:\Users\mcarrick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Android\UE4\Inc\VRExpansionPlugin\GS_GunTools.generated.h \
   C:\Users\mcarrick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Android\UE4\Inc\VRExpansionPlugin\VRGlobalSettings.generated.h \
-=======
-  C:\Users\ybasha\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\GripScripts\GS_Melee.h \
-  C:\Users\ybasha\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\GripScripts\GS_GunTools.h \
-  C:\Users\ybasha\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Android\UE4\Inc\VRExpansionPlugin\GS_GunTools.generated.h \
-  C:\Users\ybasha\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Android\UE4\Inc\VRExpansionPlugin\VRGlobalSettings.generated.h \
->>>>>>> main
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\Runtime\Core\Public\Math\DualQuat.h \
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\Runtime\Core\Public\CoreTypes.h \
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\Runtime\Core\Public\Math\UnrealMathUtility.h \
@@ -2077,15 +1824,9 @@ C:/Users/ybasha/Documents/GitHub/summer-2022-vr-project/Plugins/VRExpansionPlugi
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\Runtime\Core\Public\Math\Quat.h \
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\Runtime\Core\Public\Math\Transform.h \
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\Runtime\HeadMountedDisplay\Public\XRMotionControllerBase.h \
-<<<<<<< HEAD
   C:\Users\mcarrick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Android\UE4\Inc\VRExpansionPlugin\GripMotionControllerComponent.generated.h \
   C:\Users\mcarrick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\VRGripInterface.h \
   C:\Users\mcarrick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\VRExpansionFunctionLibrary.h \
-=======
-  C:\Users\ybasha\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Android\UE4\Inc\VRExpansionPlugin\GripMotionControllerComponent.generated.h \
-  C:\Users\ybasha\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\VRGripInterface.h \
-  C:\Users\ybasha\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\VRExpansionFunctionLibrary.h \
->>>>>>> main
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components\SplineComponent.h \
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\Runtime\Core\Public\Math\InterpCurve.h \
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Intermediate\Build\Android\UE4\Inc\Engine\SplineComponent.generated.h \
@@ -2099,13 +1840,8 @@ C:/Users/ybasha/Documents/GitHub/summer-2022-vr-project/Plugins/VRExpansionPlugi
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\Runtime\HeadMountedDisplay\Public\IHeadMountedDisplay.h \
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\Runtime\Core\Public\Modules\ModuleInterface.h \
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\Runtime\Engine\Public\SceneInterface.h \
-<<<<<<< HEAD
   C:\Users\mcarrick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\Grippables\GrippablePhysicsReplication.h \
   C:\Users\mcarrick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\VRGlobalSettings.h \
-=======
-  C:\Users\ybasha\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\Grippables\GrippablePhysicsReplication.h \
-  C:\Users\ybasha\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\VRGlobalSettings.h \
->>>>>>> main
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework\PlayerController.h \
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework\PlayerState.h \
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\Templates\SubclassOf.h \
@@ -2146,7 +1882,6 @@ C:/Users/ybasha/Documents/GitHub/summer-2022-vr-project/Plugins/VRExpansionPlugi
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\Runtime\Core\Public\Math\Vector2D.h \
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\Runtime\Core\Public\Math\Vector4.h \
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\Runtime\Experimental\ChaosCore\Public\Chaos\Array.h \
-<<<<<<< HEAD
   C:\Users\mcarrick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\functional \
   C:\Users\mcarrick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\typeinfo \
   C:\Users\mcarrick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\exception \
@@ -2210,71 +1945,6 @@ C:/Users/ybasha/Documents/GitHub/summer-2022-vr-project/Plugins/VRExpansionPlugi
   C:\Users\mcarrick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\bitset \
   C:\Users\mcarrick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\__bit_reference \
   C:\Users\mcarrick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\climits \
-=======
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\functional \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\typeinfo \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\exception \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\memory \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\cstddef \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\cstdint \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\new \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\utility \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\limits \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\iterator \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\iosfwd \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\__functional_base \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\initializer_list \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\__debug \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\tuple \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\stdexcept \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\cstdlib \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\cstring \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\atomic \
-  C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\Runtime\Core\Public\Containers\Array.h \
-  C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\Runtime\Experimental\ChaosCore\Public\Chaos\Pair.h \
-  C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\Runtime\Core\Public\Containers\StaticArray.h \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\iostream \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\ios \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\__locale \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\string \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\string_view \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\__string \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\algorithm \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\bit \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\cstdio \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\cwchar \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\cwctype \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\cctype \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\ctype.h \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\wctype.h \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\wchar.h \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\mutex \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\__mutex_base \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\chrono \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\system_error \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\__errc \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\cerrno \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\errno.h \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\__threading_support \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\time.h \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\locale.h \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\local\include\locale.h \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\locale.h \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\xlocale.h \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\support\android\locale_bionic.h \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\android\api-level.h \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\android\ndk-version.h \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\streambuf \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\istream \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\ostream \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\locale \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\cstdarg \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\ctime \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\__bsd_locale_fallbacks.h \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\bitset \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\__bit_reference \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\climits \
->>>>>>> main
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\Runtime\Experimental\ChaosCore\Public\Chaos\Matrix.h \
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\Runtime\Core\Public\Math\Matrix.h \
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\Runtime\Experimental\Chaos\Public\Chaos\Rotation.h \
@@ -2373,19 +2043,11 @@ C:/Users/ybasha/Documents/GitHub/summer-2022-vr-project/Plugins/VRExpansionPlugi
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\Runtime\Experimental\Chaos\Public\Chaos\ConstraintHandle.h \
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\Runtime\Experimental\Chaos\Public\Chaos\PBDConstraintContainer.h \
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\Runtime\Experimental\Chaos\Public\Chaos\Framework\BufferedData.h \
-<<<<<<< HEAD
   C:\Users\mcarrick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\queue \
   C:\Users\mcarrick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\deque \
   C:\Users\mcarrick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\__split_buffer \
   C:\Users\mcarrick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\vector \
   C:\Users\mcarrick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\sstream \
-=======
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\queue \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\deque \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\__split_buffer \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\vector \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\sstream \
->>>>>>> main
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\Runtime\Experimental\Chaos\Public\Chaos\BoundingVolume.h \
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\Runtime\Experimental\ChaosCore\Public\Chaos\ArrayND.h \
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\Runtime\Experimental\Chaos\Public\Chaos\UniformGrid.h \
@@ -2394,17 +2056,10 @@ C:/Users/ybasha/Documents/GitHub/summer-2022-vr-project/Plugins/VRExpansionPlugi
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\Runtime\Experimental\Chaos\Public\Chaos\Sphere.h \
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\Runtime\Experimental\Chaos\Public\Chaos\GJKShape.h \
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\Runtime\Core\Public\Templates\Models.h \
-<<<<<<< HEAD
   C:\Users\mcarrick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\unordered_set \
   C:\Users\mcarrick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\__hash_table \
   C:\Users\mcarrick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\__node_handle \
   C:\Users\mcarrick\AppData\Local\Android\Sdk\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\optional \
-=======
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\unordered_set \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\__hash_table \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\__node_handle \
-  C:\Users\ybasha\Desktop\SDK\ndk\23.0.7599858\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\optional \
->>>>>>> main
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\Runtime\Experimental\Chaos\Public\Chaos\AABBTree.h \
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\Runtime\Experimental\Chaos\Public\Chaos\BoundingVolume.h \
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\Runtime\Experimental\Chaos\Public\Chaos\PBDRigidsSOAs.h \
@@ -2521,17 +2176,10 @@ C:/Users/ybasha/Documents/GitHub/summer-2022-vr-project/Plugins/VRExpansionPlugi
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\Runtime\Engine\Public\PhysicsReplication.h \
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\Runtime\Engine\Public\Physics\PhysicsInterfaceDeclares.h \
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc\ScopeRWLock.h \
-<<<<<<< HEAD
   C:\Users\mcarrick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Android\UE4\Inc\VRExpansionPlugin\GrippablePhysicsReplication.generated.h \
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\Runtime\GameplayTags\Classes\GameplayTagContainer.h \
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Intermediate\Build\Android\UE4\Inc\GameplayTags\GameplayTagContainer.generated.h \
   C:\Users\mcarrick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Android\UE4\Inc\VRExpansionPlugin\VRExpansionFunctionLibrary.generated.h \
-=======
-  C:\Users\ybasha\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Android\UE4\Inc\VRExpansionPlugin\GrippablePhysicsReplication.generated.h \
-  C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\Runtime\GameplayTags\Classes\GameplayTagContainer.h \
-  C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Intermediate\Build\Android\UE4\Inc\GameplayTags\GameplayTagContainer.generated.h \
-  C:\Users\ybasha\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Android\UE4\Inc\VRExpansionPlugin\VRExpansionFunctionLibrary.generated.h \
->>>>>>> main
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\Runtime\GameplayTags\Classes\GameplayTagAssetInterface.h \
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\Runtime\GameplayTags\Classes\GameplayTagContainer.h \
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Intermediate\Build\Android\UE4\Inc\GameplayTags\GameplayTagAssetInterface.generated.h \
@@ -2556,17 +2204,10 @@ C:/Users/ybasha/Documents/GitHub/summer-2022-vr-project/Plugins/VRExpansionPlugi
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\Runtime\Core\Public\Logging\TokenizedMessage.h \
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\Runtime\Engine\Public\Animation\AnimTrace.h \
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Intermediate\Build\Android\UE4\Inc\Engine\AnimInstanceProxy.generated.h \
-<<<<<<< HEAD
   C:\Users\mcarrick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Android\UE4\Inc\VRExpansionPlugin\HandSocketComponent.generated.h \
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components\SkeletalMeshComponent.h \
   C:\Users\mcarrick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Android\UE4\Inc\VRExpansionPlugin\OptionalRepSkeletalMeshActor.gen.cpp \
   C:\Users\mcarrick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\Misc\OptionalRepSkeletalMeshActor.h \
-=======
-  C:\Users\ybasha\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Android\UE4\Inc\VRExpansionPlugin\HandSocketComponent.generated.h \
-  C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components\SkeletalMeshComponent.h \
-  C:\Users\ybasha\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Android\UE4\Inc\VRExpansionPlugin\OptionalRepSkeletalMeshActor.gen.cpp \
-  C:\Users\ybasha\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\Misc\OptionalRepSkeletalMeshActor.h \
->>>>>>> main
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Animation\SkeletalMeshActor.h \
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Matinee\MatineeAnimInterface.h \
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Intermediate\Build\Android\UE4\Inc\Engine\MatineeAnimInterface.generated.h \
@@ -2580,7 +2221,6 @@ C:/Users/ybasha/Documents/GitHub/summer-2022-vr-project/Plugins/VRExpansionPlugi
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine\Channel.h \
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\Runtime\Engine\Public\Net\DataReplication.h \
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Intermediate\Build\Android\UE4\Inc\Engine\ActorChannel.generated.h \
-<<<<<<< HEAD
   C:\Users\mcarrick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Android\UE4\Inc\VRExpansionPlugin\OptionalRepSkeletalMeshActor.generated.h \
   C:\Users\mcarrick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Android\UE4\Inc\VRExpansionPlugin\ParentRelativeAttachmentComponent.gen.cpp \
   C:\Users\mcarrick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\ParentRelativeAttachmentComponent.h \
@@ -2590,32 +2230,15 @@ C:/Users/ybasha/Documents/GitHub/summer-2022-vr-project/Plugins/VRExpansionPlugi
   C:\Users\mcarrick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Android\UE4\Inc\VRExpansionPlugin\ParentRelativeAttachmentComponent.generated.h \
   C:\Users\mcarrick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Android\UE4\Inc\VRExpansionPlugin\ReplicatedVRCameraComponent.gen.cpp \
   C:\Users\mcarrick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\ReplicatedVRCameraComponent.h \
-=======
-  C:\Users\ybasha\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Android\UE4\Inc\VRExpansionPlugin\OptionalRepSkeletalMeshActor.generated.h \
-  C:\Users\ybasha\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Android\UE4\Inc\VRExpansionPlugin\ParentRelativeAttachmentComponent.gen.cpp \
-  C:\Users\ybasha\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\ParentRelativeAttachmentComponent.h \
-  C:\Users\ybasha\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\VRExpansionFunctionLibrary.h \
-  C:\Users\ybasha\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\VRTrackedParentInterface.h \
-  C:\Users\ybasha\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Android\UE4\Inc\VRExpansionPlugin\VRTrackedParentInterface.generated.h \
-  C:\Users\ybasha\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Android\UE4\Inc\VRExpansionPlugin\ParentRelativeAttachmentComponent.generated.h \
-  C:\Users\ybasha\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Android\UE4\Inc\VRExpansionPlugin\ReplicatedVRCameraComponent.gen.cpp \
-  C:\Users\ybasha\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\ReplicatedVRCameraComponent.h \
->>>>>>> main
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Camera\CameraComponent.h \
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject\ScriptInterface.h \
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine\BlendableInterface.h \
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine\Scene.h \
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Camera\CameraTypes.h \
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Intermediate\Build\Android\UE4\Inc\Engine\CameraComponent.generated.h \
-<<<<<<< HEAD
   C:\Users\mcarrick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Android\UE4\Inc\VRExpansionPlugin\ReplicatedVRCameraComponent.generated.h \
   C:\Users\mcarrick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Android\UE4\Inc\VRExpansionPlugin\VRAIController.gen.cpp \
   C:\Users\mcarrick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\VRAIController.h \
-=======
-  C:\Users\ybasha\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Android\UE4\Inc\VRExpansionPlugin\ReplicatedVRCameraComponent.generated.h \
-  C:\Users\ybasha\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Android\UE4\Inc\VRExpansionPlugin\VRAIController.gen.cpp \
-  C:\Users\ybasha\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\VRAIController.h \
->>>>>>> main
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\Runtime\AIModule\Classes\AIController.h \
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\Runtime\Engine\Public\EngineDefines.h \
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\Runtime\NavigationSystem\Public\NavFilters\NavigationQueryFilter.h \
@@ -2671,15 +2294,9 @@ C:/Users/ybasha/Documents/GitHub/summer-2022-vr-project/Plugins/VRExpansionPlugi
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\Runtime\Engine\Public\VisualLogger\VisualLoggerDebugSnapshotInterface.h \
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Intermediate\Build\Android\UE4\Inc\Engine\VisualLoggerDebugSnapshotInterface.generated.h \
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Intermediate\Build\Android\UE4\Inc\AIModule\AIController.generated.h \
-<<<<<<< HEAD
   C:\Users\mcarrick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\VRBaseCharacter.h \
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\Runtime\AIModule\Classes\Navigation\PathFollowingComponent.h \
   C:\Users\mcarrick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\VRBaseCharacterMovementComponent.h \
-=======
-  C:\Users\ybasha\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\VRBaseCharacter.h \
-  C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\Runtime\AIModule\Classes\Navigation\PathFollowingComponent.h \
-  C:\Users\ybasha\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\VRBaseCharacterMovementComponent.h \
->>>>>>> main
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework\Character.h \
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine\NetSerialization.h \
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework\CharacterMovementReplication.h \
@@ -2702,7 +2319,6 @@ C:/Users/ybasha/Documents/GitHub/summer-2022-vr-project/Plugins/VRExpansionPlugi
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Interfaces\NetworkPredictionInterface.h \
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Intermediate\Build\Android\UE4\Inc\Engine\NetworkPredictionInterface.generated.h \
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Intermediate\Build\Android\UE4\Inc\Engine\CharacterMovementComponent.generated.h \
-<<<<<<< HEAD
   C:\Users\mcarrick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\CharacterMovementCompTypes.h \
   C:\Users\mcarrick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Android\UE4\Inc\VRExpansionPlugin\CharacterMovementCompTypes.generated.h \
   C:\Users\mcarrick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Android\UE4\Inc\VRExpansionPlugin\VRBaseCharacterMovementComponent.generated.h \
@@ -2716,21 +2332,6 @@ C:/Users/ybasha/Documents/GitHub/summer-2022-vr-project/Plugins/VRExpansionPlugi
   C:\Users\mcarrick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Android\UE4\Inc\VRExpansionPlugin\VRAIPerceptionOverrides.gen.cpp \
   C:\Users\mcarrick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\Misc\VRAIPerceptionOverrides.h \
   C:\Users\mcarrick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\VRBaseCharacter.h \
-=======
-  C:\Users\ybasha\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\CharacterMovementCompTypes.h \
-  C:\Users\ybasha\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Android\UE4\Inc\VRExpansionPlugin\CharacterMovementCompTypes.generated.h \
-  C:\Users\ybasha\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Android\UE4\Inc\VRExpansionPlugin\VRBaseCharacterMovementComponent.generated.h \
-  C:\Users\ybasha\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\ReplicatedVRCameraComponent.h \
-  C:\Users\ybasha\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\ParentRelativeAttachmentComponent.h \
-  C:\Users\ybasha\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\GripMotionControllerComponent.h \
-  C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components\CapsuleComponent.h \
-  C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Intermediate\Build\Android\UE4\Inc\Engine\CapsuleComponent.generated.h \
-  C:\Users\ybasha\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Android\UE4\Inc\VRExpansionPlugin\VRBaseCharacter.generated.h \
-  C:\Users\ybasha\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Android\UE4\Inc\VRExpansionPlugin\VRAIController.generated.h \
-  C:\Users\ybasha\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Android\UE4\Inc\VRExpansionPlugin\VRAIPerceptionOverrides.gen.cpp \
-  C:\Users\ybasha\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\Misc\VRAIPerceptionOverrides.h \
-  C:\Users\ybasha\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\VRBaseCharacter.h \
->>>>>>> main
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\Runtime\AIModule\Classes\GenericTeamAgentInterface.h \
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\Runtime\AIModule\Classes\Perception\AISense.h \
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\Runtime\AIModule\Classes\Perception\AIPerceptionTypes.h \
@@ -2740,12 +2341,6 @@ C:/Users/ybasha/Documents/GitHub/summer-2022-vr-project/Plugins/VRExpansionPlugi
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\Runtime\AIModule\Classes\Perception\AISenseConfig.h \
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Source\Runtime\AIModule\Classes\Perception\AISense.h \
   C:\Program\ Files\Epic\ Games\UE_4.27\Engine\Intermediate\Build\Android\UE4\Inc\AIModule\AISenseConfig.generated.h \
-<<<<<<< HEAD
   C:\Users\mcarrick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Android\UE4\Inc\VRExpansionPlugin\VRAIPerceptionOverrides.generated.h \
   C:\Users\mcarrick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Android\UE4\Inc\VRExpansionPlugin\VRBaseCharacter.gen.cpp \
   C:\Users\mcarrick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\VRBaseCharacter.h
-=======
-  C:\Users\ybasha\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Android\UE4\Inc\VRExpansionPlugin\VRAIPerceptionOverrides.generated.h \
-  C:\Users\ybasha\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Android\UE4\Inc\VRExpansionPlugin\VRBaseCharacter.gen.cpp \
-  C:\Users\ybasha\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\VRBaseCharacter.h
->>>>>>> main
