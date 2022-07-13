@@ -1,6 +1,6 @@
-C:\Users\mcarrick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\OpenXRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\OpenXRExpansionEditor\Definitions.OpenXRExpansionEditor.h
-C:/Users/mcarrick/Documents/GitHub/summer-2022-vr-project/Plugins/VRExpansionPlugin/OpenXRExpansionPlugin/Source/OpenXRExpansionEditor/Private/AnimGraphNode_ApplyOpenXRHandPose.cpp
-C:\Users\mcarrick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\OpenXRExpansionPlugin\Source\OpenXRExpansionEditor\Public\AnimGraphNode_ApplyOpenXRHandPose.h
+C:\Users\adeick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\OpenXRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\OpenXRExpansionEditor\Definitions.OpenXRExpansionEditor.h
+C:/Users/adeick/Documents/GitHub/summer-2022-vr-project/Plugins/VRExpansionPlugin/OpenXRExpansionPlugin/Source/OpenXRExpansionEditor/Private/AnimGraphNode_ApplyOpenXRHandPose.cpp
+C:\Users\adeick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\OpenXRExpansionPlugin\Source\OpenXRExpansionEditor\Public\AnimGraphNode_ApplyOpenXRHandPose.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\AnimGraph\Public\AnimGraphDefinitions.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\BlueprintGraph\Public\BlueprintGraphDefinitions.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\GraphEditAction.h
@@ -9,19 +9,19 @@ C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\In
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\BlueprintGraph\Classes\EdGraphSchema_K2_Actions.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintGraph\EdGraphSchema_K2_Actions.generated.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\BlueprintGraph\Classes\K2Node_ActorBoundEvent.h
-c:\program files\epic games\ue_4.27\engine\source\editor\blueprintgraph\classes\K2Node_Event.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\BlueprintGraph\Classes\K2Node_Event.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/MemberReference.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MemberReference.generated.h
-c:\program files\epic games\ue_4.27\engine\source\editor\blueprintgraph\classes\K2Node_EventNodeInterface.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\BlueprintGraph\Classes\K2Node_EventNodeInterface.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintGraph\K2Node_EventNodeInterface.generated.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintGraph\K2Node_Event.generated.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintGraph\K2Node_ActorBoundEvent.generated.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\BlueprintGraph\Classes\K2Node_AddComponent.h
-c:\program files\epic games\ue_4.27\engine\source\editor\blueprintgraph\classes\K2Node_CallFunction.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\BlueprintGraph\Classes\K2Node_CallFunction.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintGraph\K2Node_CallFunction.generated.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintGraph\K2Node_AddComponent.generated.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\BlueprintGraph\Classes\K2Node_AddDelegate.h
-c:\program files\epic games\ue_4.27\engine\source\editor\blueprintgraph\classes\K2Node_BaseMCDelegate.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\BlueprintGraph\Classes\K2Node_BaseMCDelegate.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintGraph\K2Node_BaseMCDelegate.generated.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintGraph\K2Node_AddDelegate.generated.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\BlueprintGraph\Classes\K2Node_AssignmentStatement.h
@@ -29,9 +29,9 @@ C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\In
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\BlueprintGraph\Classes\K2Node_BaseAsyncTask.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintGraph\K2Node_BaseAsyncTask.generated.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\BlueprintGraph\Classes\K2Node_BreakStruct.h
-c:\program files\epic games\ue_4.27\engine\source\editor\blueprintgraph\classes\K2Node_StructMemberGet.h
-c:\program files\epic games\ue_4.27\engine\source\editor\blueprintgraph\classes\K2Node_StructOperation.h
-c:\program files\epic games\ue_4.27\engine\source\editor\blueprintgraph\classes\K2Node_Variable.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\BlueprintGraph\Classes\K2Node_StructMemberGet.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\BlueprintGraph\Classes\K2Node_StructOperation.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\BlueprintGraph\Classes\K2Node_Variable.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintGraph\K2Node_Variable.generated.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintGraph\K2Node_StructOperation.generated.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintGraph\K2Node_StructMemberGet.generated.h
@@ -51,7 +51,7 @@ C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\In
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\BlueprintGraph\Classes\K2Node_ClearDelegate.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintGraph\K2Node_ClearDelegate.generated.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\BlueprintGraph\Classes\K2Node_CommutativeAssociativeBinaryOperator.h
-c:\program files\epic games\ue_4.27\engine\source\editor\blueprintgraph\classes\K2Node_AddPinInterface.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\BlueprintGraph\Classes\K2Node_AddPinInterface.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintGraph\K2Node_AddPinInterface.generated.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintGraph\K2Node_CommutativeAssociativeBinaryOperator.generated.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\BlueprintGraph\Classes\K2Node_ConstructObjectFromClass.h
@@ -77,7 +77,7 @@ C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\In
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\BlueprintGraph\Classes\K2Node_FormatText.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintGraph\K2Node_FormatText.generated.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\BlueprintGraph\Classes\K2Node_FunctionEntry.h
-c:\program files\epic games\ue_4.27\engine\source\editor\blueprintgraph\classes\K2Node_FunctionTerminator.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\BlueprintGraph\Classes\K2Node_FunctionTerminator.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintGraph\K2Node_FunctionTerminator.generated.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintGraph\K2Node_FunctionEntry.generated.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\BlueprintGraph\Classes\K2Node_FunctionResult.h
@@ -103,21 +103,21 @@ C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\In
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\BlueprintGraph\Classes\K2Node_Literal.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintGraph\K2Node_Literal.generated.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\BlueprintGraph\Classes\K2Node_MacroInstance.h
-c:\program files\epic games\ue_4.27\engine\source\editor\blueprintgraph\classes\K2Node_Tunnel.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\BlueprintGraph\Classes\K2Node_Tunnel.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintGraph\K2Node_Tunnel.generated.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintGraph\K2Node_MacroInstance.generated.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\BlueprintGraph\Classes\K2Node_MakeArray.h
-c:\program files\epic games\ue_4.27\engine\source\editor\blueprintgraph\classes\K2Node_MakeContainer.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\BlueprintGraph\Classes\K2Node_MakeContainer.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\KismetCompiler\Public\KismetCompilerMisc.h
-c:\program files\epic games\ue_4.27\engine\source\editor\kismetcompiler\public\BPTerminal.h
-c:\program files\epic games\ue_4.27\engine\source\editor\kismetcompiler\public\BlueprintCompiledStatement.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\KismetCompiler\Public\BPTerminal.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\KismetCompiler\Public\BlueprintCompiledStatement.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintGraph\K2Node_MakeContainer.generated.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintGraph\K2Node_MakeArray.generated.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\BlueprintGraph\Classes\K2Node_MathExpression.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\UnrealEd\Public\Kismet2/CompilerResultsLog.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Logging/TokenizedMessage.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\UnrealEd\Public\EdGraphToken.h
-c:\program files\epic games\ue_4.27\engine\source\editor\blueprintgraph\classes\K2Node_Composite.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\BlueprintGraph\Classes\K2Node_Composite.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintGraph\K2Node_Composite.generated.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintGraph\K2Node_MathExpression.generated.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\BlueprintGraph\Classes\K2Node_MatineeController.h
@@ -125,7 +125,7 @@ C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\In
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\BlueprintGraph\Classes\K2Node_RemoveDelegate.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintGraph\K2Node_RemoveDelegate.generated.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\BlueprintGraph\Classes\K2Node_Select.h
-c:\program files\epic games\ue_4.27\engine\source\editor\blueprintgraph\classes\NodeDependingOnEnumInterface.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\BlueprintGraph\Classes\NodeDependingOnEnumInterface.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintGraph\NodeDependingOnEnumInterface.generated.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintGraph\K2Node_Select.generated.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\BlueprintGraph\Classes\K2Node_Self.h
@@ -133,11 +133,11 @@ C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\In
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\BlueprintGraph\Classes\K2Node_SpawnActor.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintGraph\K2Node_SpawnActor.generated.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\BlueprintGraph\Classes\K2Node_SpawnActorFromClass.h
-c:\program files\epic games\ue_4.27\engine\source\editor\blueprintgraph\classes\K2Node_GenericCreateObject.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\BlueprintGraph\Classes\K2Node_GenericCreateObject.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintGraph\K2Node_GenericCreateObject.generated.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintGraph\K2Node_SpawnActorFromClass.generated.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\BlueprintGraph\Classes\K2Node_SwitchInteger.h
-c:\program files\epic games\ue_4.27\engine\source\editor\blueprintgraph\classes\K2Node_Switch.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\BlueprintGraph\Classes\K2Node_Switch.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintGraph\K2Node_Switch.generated.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintGraph\K2Node_SwitchInteger.generated.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\BlueprintGraph\Classes\K2Node_SwitchName.h
@@ -151,8 +151,8 @@ C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\In
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\BlueprintGraph\Classes\K2Node_VariableSet.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintGraph\K2Node_VariableSet.generated.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\BlueprintGraph\Classes\K2Node_SetFieldsInStruct.h
-c:\program files\epic games\ue_4.27\engine\source\editor\blueprintgraph\classes\K2Node_MakeStruct.h
-c:\program files\epic games\ue_4.27\engine\source\editor\blueprintgraph\classes\K2Node_StructMemberSet.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\BlueprintGraph\Classes\K2Node_MakeStruct.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\BlueprintGraph\Classes\K2Node_StructMemberSet.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintGraph\K2Node_StructMemberSet.generated.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintGraph\K2Node_MakeStruct.generated.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintGraph\K2Node_SetFieldsInStruct.generated.h
@@ -161,7 +161,7 @@ C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\In
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\UnrealEd\Public\Kismet2/BlueprintEditorUtils.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor/ClassViewer/Public/ClassViewerModule.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor/AnimGraph/Classes/AnimGraphNode_SkeletalControlBase.h
-c:\program files\epic games\ue_4.27\engine\source\editor\animgraph\classes\AnimGraphNode_Base.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\AnimGraph\Classes\AnimGraphNode_Base.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Animation/AnimBlueprint.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AnimBlueprint.generated.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Animation/AnimBlueprintGeneratedClass.h
@@ -178,7 +178,7 @@ C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Stats/Stat
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Logging/MessageLog.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\Animation/AnimTrace.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\ObjectTrace.h
-c:\program files\epic games\ue_4.27\engine\source\runtime\engine\public\TraceFilter.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\TraceFilter.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Animation/AnimInstance.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Animation/AnimMontage.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Animation/AnimCompositeBase.h
@@ -198,30 +198,30 @@ C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Animati
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\AnimationRuntime.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\BlendSpaceBase.generated.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\PropertyAccess\Public\PropertyAccess.h
-c:\program files\epic games\ue_4.27\engine\source\runtime\propertyaccess\public\PropertyEventInterfaces.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\PropertyAccess\Public\PropertyEventInterfaces.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\PropertyAccess\PropertyEventInterfaces.generated.h
-c:\program files\epic games\ue_4.27\engine\source\runtime\propertyaccess\public\IPropertyAccess.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\PropertyAccess\Public\IPropertyAccess.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\PropertyAccess\IPropertyAccess.generated.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\PropertyAccess\PropertyAccess.generated.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AnimBlueprintGeneratedClass.generated.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AnimGraph\AnimGraphNode_Base.generated.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AnimGraph\AnimGraphNode_SkeletalControlBase.generated.h
-C:\Users\mcarrick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\OpenXRExpansionPlugin\Source\OpenXRExpansionPlugin\Public\AnimNode_ApplyOpenXRHandPose.h
+C:\Users\adeick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\OpenXRExpansionPlugin\Source\OpenXRExpansionPlugin\Public\AnimNode_ApplyOpenXRHandPose.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime/AnimGraphRuntime/Public/BoneControllers/AnimNode_SkeletalControlBase.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Animation/InputScaleBias.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\InputScaleBias.generated.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AnimGraphRuntime\AnimNode_SkeletalControlBase.generated.h
-c:\users\mcarrick\documents\github\summer-2022-vr-project\plugins\vrexpansionplugin\openxrexpansionplugin\source\openxrexpansionplugin\public\OpenXRExpansionTypes.h
-C:\Users\mcarrick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\OpenXRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Inc\OpenXRExpansionPlugin\OpenXRExpansionTypes.Generated.h
-C:\Users\mcarrick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\OpenXRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Inc\OpenXRExpansionPlugin\AnimNode_ApplyOpenXRHandPose.generated.h
-C:\Users\mcarrick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\OpenXRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Inc\OpenXRExpansionEditor\AnimGraphNode_ApplyOpenXRHandPose.generated.h
-C:/Users/mcarrick/Documents/GitHub/summer-2022-vr-project/Plugins/VRExpansionPlugin/OpenXRExpansionPlugin/Source/OpenXRExpansionEditor/Private/OpenXRExpansionEditor.cpp
-C:\Users\mcarrick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\OpenXRExpansionPlugin\Source\OpenXRExpansionEditor\Public\OpenXRExpansionEditor.h
+C:\Users\adeick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\OpenXRExpansionPlugin\Source\OpenXRExpansionPlugin\Public\OpenXRExpansionTypes.h
+C:\Users\adeick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\OpenXRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Inc\OpenXRExpansionPlugin\OpenXRExpansionTypes.Generated.h
+C:\Users\adeick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\OpenXRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Inc\OpenXRExpansionPlugin\AnimNode_ApplyOpenXRHandPose.generated.h
+C:\Users\adeick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\OpenXRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Inc\OpenXRExpansionEditor\AnimGraphNode_ApplyOpenXRHandPose.generated.h
+C:/Users/adeick/Documents/GitHub/summer-2022-vr-project/Plugins/VRExpansionPlugin/OpenXRExpansionPlugin/Source/OpenXRExpansionEditor/Private/OpenXRExpansionEditor.cpp
+C:\Users\adeick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\OpenXRExpansionPlugin\Source\OpenXRExpansionEditor\Public\OpenXRExpansionEditor.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\UnrealEd\Classes\Editor/UnrealEdEngine.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\UnrealEd\Public\IPackageAutoSaver.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Developer\SourceControl\Public\ISourceControlProvider.h
-c:\program files\epic games\ue_4.27\engine\source\developer\sourcecontrol\public\ISourceControlOperation.h
-c:\program files\epic games\ue_4.27\engine\source\developer\sourcecontrol\public\ISourceControlState.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Developer\SourceControl\Public\ISourceControlOperation.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Developer\SourceControl\Public\ISourceControlState.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\UnrealEd\Public\IDDCNotifications.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\UnrealEd\Public\ComponentVisualizer.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\ComponentVisualizer.generated.h
