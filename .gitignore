@@ -47,7 +47,8 @@ SourceArt/**/*.tga
 
 # Binary Files
 Binaries/*
-Plugins/*/Binaries/*
+
+# Plugins/*/Binaries/*
 
 # Builds
 Build/*
@@ -69,8 +70,6 @@ Saved/*
 # Compiled source files for the engine to use
 Intermediate/*
 # Plugins/*/Intermediate/*
-
-Packaged Builds/*
 
 Plugins/*
 Packaged Builds/*
