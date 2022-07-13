@@ -6,7 +6,7 @@
 /NAME:"UE4Editor-VRExpansionEditor.dll"
 /IGNORE:4221
 /NODEFAULTLIB
-"C:\Users\adeick\Documents\GitHub\summer-2022-vr-project\Intermediate\Build\Win64\VRBlockOutEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.obj"
-"C:\Users\adeick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\VRExpansionEditor\Module.VRExpansionEditor.cpp.obj"
-"C:\Users\adeick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\VRExpansionEditor\Default.rc2.res"
-/OUT:"C:\Users\adeick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\VRExpansionEditor\UE4Editor-VRExpansionEditor.lib"
+"C:\Users\mcarrick\Documents\GitHub\summer-2022-vr-project\Intermediate\Build\Win64\VRBlockOutEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.obj"
+"C:\Users\mcarrick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\VRExpansionEditor\Module.VRExpansionEditor.cpp.obj"
+"C:\Users\mcarrick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\VRExpansionEditor\Default.rc2.res"
+/OUT:"C:\Users\mcarrick\Documents\GitHub\summer-2022-vr-project\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\VRExpansionEditor\UE4Editor-VRExpansionEditor.lib"
